@@ -1,17 +1,17 @@
 
-# **Media One-Word Domain Names**: Daily Updated List of Available Domains
+# **media One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Media one-word domains.
+This regularly updated dataset includes the latest available media one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/media-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Media one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **media one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Media domains.
+- **Domain Name**: High-quality, single-word media domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Media one-word doma
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                    | sectors                           |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | -------------------------------------------- | --------------------------------- |
-| feel.xyz        | resell    | 144            | 92     | 4      | 02/06/2014 17:08 | 02/06/2026 23:59 | Go Daddy, LLC                                | General,Media                     |
-| one.cab         | resell    | 132            | 43     | 3      | 19/01/2024 17:00 | 19/01/2026 17:00 | Xiamen ChinaSource Internet Service Co., Ltd | Business,General,Media,Technology |
-| one.family      | expired   | 132            | 43     | 3      | 21/06/2024 06:02 | 21/06/2025 06:02 | Porkbun LLC                                  | Business,General,Media,Technology |
-| one.bar         | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.airforce    | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.kim         | resell    | 132            | 43     | 3      | 16/12/2023 17:00 | 16/12/2025 17:00 | Dominet (HK) Limited                         | Business,General,Media,Technology |
-| one.boston      | resell    | 132            | 43     | 3      | 10/10/2017 22:33 | 10/10/2025 22:33 | GoDaddy.com, LLC                             | Business,General,Media,Technology |
-| one.sexy        | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.ceo         | resell    | 132            | 43     | 3      | 28/04/2025 08:13 | 28/04/2026 23:59 | Sav.com, LLC - 47                            | Business,General,Media,Technology |
-| one.voto        | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.jewelry     | resell    | 132            | 43     | 3      | 06/01/2025 17:16 | 06/01/2026 17:16 | Sav.com, LLC                                 | Business,General,Media,Technology |
-| one.software    | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.spot        | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.engineer    | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.live        | expiring  | 132            | 43     | 3      | 21/09/2023 19:45 | 21/09/2025 19:45 | Name.com, Inc.                               | Business,General,Media,Technology |
-| nothing.io      | sold      | 130            | 80     | 7      | 17/03/2015 00:30 | 17/03/2026 00:30 | Porkbun LLC                                  | Arts,General,Media                |
-| something.space | available | 126            | 96     | 9      |                  |                  |                                              | Education,General,Media           |
-| special.store   | available | 124            | 80     | 7      |                  |                  |                                              | Business,Media,Retail             |
-| game.site       | available | 120            | 92     | 4      |                  |                  |                                              | Entertainment,Media,Sports        |
-| thick.ninja     | available | 120            | 84     | 5      |                  |                  |                                              | Fashion,Food and Beverage,Media   |
-| chief.xyz       | sold      | 120            | 84     | 5      | 19/08/2021 08:40 | 19/08/2030 23:59 | Dynadot LLC                                  | Business,General,Media,Technology |
-| weather.cloud   | available | 118            | 92     | 7      |                  |                  |                                              | Environment,Media,Travel          |
-| wizard.beauty   | resell    | 118            | 42     | 6      | 20/06/2025 08:13 | 20/06/2026 23:59 | Dynadot LLC                                  | Entertainment,Media,Technology    |
-| wizard.srl      | available | 118            | 42     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| wizard.exchange | resell    | 118            | 42     | 6      | 12/07/2025 16:23 | 12/07/2026 16:23 | Sav.com, LLC                                 | Entertainment,Media,Technology    |
-| wizard.watch    | available | 118            | 42     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| wizard.cyou     | available | 118            | 42     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| wizard.tattoo   | available | 118            | 42     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| wizard.boats    | available | 118            | 42     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| hollywood.so    | available | 118            | 84     | 9      |                  |                  |                                              | Entertainment,Media,Travel        |
+| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                           | sectors                               |
+| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------------------------------------- | ------------------------------------- |
+| one.media       | expiring  | 132            | 43     | 3      | 30/08/2024 15:15 | 30/08/2025 15:15 | Sav.com, LLC - 14                                   | Business,General,Media,Technology     |
+| second.media    | expired   | 120            | 23     | 6      | 12/06/2019 08:15 | 12/06/2025 08:15 | Domeneshop AS dba domainnameshop.com                | General,Mathematics                   |
+| tenth.media     | available | 116            | 7      | 5      |                  |                  |                                                     | Mathematics                           |
+| flat.media      | resell    | 116            | 23     | 4      | 08/01/2022 13:15 | 08/01/2026 13:15 | DNSPod, Inc.                                        | Construction,Real Estate              |
+| acute.media     | available | 112            | 9      | 5      |                  |                  |                                                     | Mathematics,Medicine,Science          |
+| abstract.media  | resell    | 108            | 29     | 8      | 20/03/2020 08:17 | 20/03/2027 08:17 | Chengdu West Dimension Digital Technology Co., Ltd. | Arts,Humanities,Science               |
+| abiding.media   | available | 106            | 5      | 7      |                  |                  |                                                     | General,Religion                      |
+| expert.media    | available | 104            | 26     | 6      |                  |                  |                                                     | Business,Education,Technology         |
+| active.media    | resell    | 104            | 27     | 6      | 14/06/2015 16:14 | 14/06/2026 16:14 | Chengdu West Dimension Digital Technology Co., Ltd. | Health and Fitness,Sports,Travel      |
+| absent.media    | available | 102            | 8      | 6      |                  |                  |                                                     | Business,Education,Technology         |
+| captive.media   | resell    | 102            | 14     | 7      | 30/10/2023 15:15 | 30/10/2025 15:15 | Chengdu West Dimension Digital Technology Co., Ltd. | Entertainment,Hospitality,Technology  |
+| adjunct.media   | available | 100            | 5      | 7      |                  |                  |                                                     | Education                             |
+| whiz.media      | available | 100            | 12     | 4      |                  |                  |                                                     | Business,Education,Technology         |
+| crack.media     | resell    | 100            | 20     | 5      | 25/11/2024 17:00 | 25/11/2025 17:00 | Sav.com, LLC - 40                                   | Sports                                |
+| third.media     | resell    | 100            | 15     | 5      | 11/08/2014 00:42 | 11/08/2026 00:42 | NameCheap, Inc.                                     | Mathematics                           |
+| remove.media    | resell    | 100            | 13     | 6      | 11/07/2024 18:47 | 11/07/2026 18:47 | NameCheap, Inc.                                     | Construction,Manufacturing,Technology |
+| ninth.media     | available | 100            | 9      | 5      |                  |                  |                                                     | Mathematics                           |
+| abrupt.media    | available | 100            | 3      | 6      |                  |                  |                                                     | Medicine,Science                      |
+| genius.media    | resell    | 98             | 46     | 6      | 22/07/2014 03:56 | 22/07/2026 03:56 | GoDaddy.com, LLC                                    | Arts,Education,Technology             |
+| alamode.media   | available | 96             | 12     | 9      |                  |                  |                                                     | Fashion                               |
+| forgiving.media | available | 96             | 3      | 9      |                  |                  |                                                     | Healthcare,Religion                   |
+| doable.media    | available | 96             | 9      | 6      |                  |                  |                                                     | Business,Education,Technology         |
+| abject.media    | available | 94             | 7      | 6      |                  |                  |                                                     | Humanities                            |
+| abroad.media    | resell    | 92             | 12     | 6      | 09/05/2022 17:00 | 09/05/2026 17:00 | Xiamen ChinaSource Internet Service Co., Ltd        | Hospitality,Travel                    |
+| nought.media    | available | 92             | 4      | 6      |                  |                  |                                                     | Mathematics                           |
+| adept.media     | resell    | 92             | 24     | 5      | 11/10/2022 13:15 | 11/10/2025 13:15 | Chengdu West Dimension Digital Technology Co., Ltd. | Education,Health and Fitness,Sports   |
+| derelict.media  | available | 92             | 7      | 8      |                  |                  |                                                     | Construction,Real Estate              |
+| neutral.media   | resell    | 92             | 20     | 7      | 06/10/2024 17:00 | 06/10/2025 17:00 | Xiamen ChinaSource Internet Service Co., Ltd        | Business,Media,Politics               |
+| exemplary.media | available | 92             | 5      | 9      |                  |                  |                                                     | Business,Education,Healthcare         |
+| twentieth.media | available | 92             | 3      | 9      |                  |                  |                                                     | Mathematics                           |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/media-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/media-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
