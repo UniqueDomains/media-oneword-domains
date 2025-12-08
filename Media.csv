@@ -118,7 +118,7 @@ e0d4e7f3-4af6-47bc-a598-96f0332be1bb,streaming.dance,available,88,24,9,,,
 d4e85cc7-b064-4aac-b3b1-7c8758924068,streaming.date,premium,88,24,9,,,
 0ef97042-e9e4-4e5b-b1d4-525332b5b97a,streaming.dating,available,88,24,9,,,
 b9d00ae4-fc96-4e3e-93b1-807dd6ab1bd7,streaming.day,premium,88,24,9,,,
-8247a6e6-1f4f-4a80-943f-e0b046ab93ae,streaming.deal,available,88,24,9,,,
+8247a6e6-1f4f-4a80-943f-e0b046ab93ae,streaming.deal,premium,88,24,9,,,
 c856e8ef-d3a3-4b70-b96b-1d82e422374d,streaming.dealer,premium,88,24,9,,,
 8078bbf0-51ab-485b-ac8d-e55a67bb0ecb,streaming.degree,available,88,24,9,,,
 e078557e-ae39-4243-95b3-b5b7c93c91a2,streaming.delivery,resell,88,24,9,"Sav.com, LLC",08/06/2015 20:23,08/06/2026 20:23
@@ -152,7 +152,7 @@ c6ec96fb-424a-444b-9fdb-0f5c0f68893d,streaming.fan,premium,88,24,9,,,
 d28c5942-855f-4efe-93c3-b0f29b273ae6,streaming.fans,premium,88,24,9,,,
 39c9ac8b-f345-41f9-8d95-44707e871dba,streaming.farm,sold,88,24,9,"GoDaddy.com, LLC",09/11/2025 16:23,09/11/2026 16:23
 97fe4129-b706-49e2-b57c-1e59d2dcc064,streaming.fashion,available,88,24,9,,,
-3f6de04a-b7c6-4112-9d9b-afce14ee0a54,streaming.fast,available,88,24,9,,,
+3f6de04a-b7c6-4112-9d9b-afce14ee0a54,streaming.fast,premium,88,24,9,,,
 b66017ef-b8c6-430a-a8fc-8d0c9fcc1155,streaming.film,premium,88,24,9,,,
 b0efe403-2a31-4d72-8fe8-8d115ccba114,streaming.finance,expiring,88,24,9,Dynadot Inc,17/12/2022 07:11,17/12/2025 07:11
 c0a0af11-aecf-4928-951d-8148ee7707d6,streaming.financial,available,88,24,9,,,
@@ -167,7 +167,7 @@ c9358bbe-bdbe-4933-a2ff-340b2eb1f68c,streaming.foo,premium,88,24,9,,,
 bda92ccc-3b35-42ae-874d-bd5d4a8f029b,streaming.food,resell,88,24,9,GoDaddy,14/07/2025 11:32,14/07/2026 11:32
 b35f705d-13e0-4b66-84d5-31c618997521,streaming.football,premium,88,24,9,,,
 130fee45-b7fa-49d6-a962-ee96a33c1090,streaming.foundation,sold,88,24,9,"GoDaddy.com, LLC",09/11/2025 16:23,09/11/2026 16:23
-8a7f6140-1adf-4e16-b035-705e5e7f2037,streaming.free,available,88,24,9,,,
+8a7f6140-1adf-4e16-b035-705e5e7f2037,streaming.free,premium,88,24,9,,,
 2961be9c-5e2e-42d7-b6f9-d81383b16b30,streaming.fun,premium,88,24,9,,,
 9e7aa9d5-41cd-46fe-9dd4-08178d983a0b,streaming.furniture,available,88,24,9,,,
 2e179c76-6b83-443a-8c72-7deb6c707cb4,streaming.futbol,available,88,24,9,,,
@@ -342,7 +342,7 @@ adedf2da-550b-4a4d-a64d-e7a2685d973a,streaming.study,premium,88,24,9,,,
 e19bf5be-fc52-4053-806b-0a6232efa51b,streaming.supplies,available,88,24,9,,,
 4636fa6d-882f-4aeb-a821-68db049ce823,streaming.supply,resell,88,24,9,"GoDaddy.com, LLC",26/10/2020 18:29,26/10/2026 18:29
 e5ccf6db-306e-4abe-8166-0d3d5794517c,streaming.surgery,available,88,24,9,,,
-ab04d95c-1335-4787-b694-6a05e69e7dda,streaming.talk,available,88,24,9,,,
+ab04d95c-1335-4787-b694-6a05e69e7dda,streaming.talk,premium,88,24,9,,,
 df8e705d-fa5a-4dfc-974b-841be5d5bea7,streaming.tattoo,available,88,24,9,,,
 bd08b854-c96f-4090-89bb-03c99ba4b2a9,streaming.taxi,available,88,24,9,,,
 549fd85f-f99c-4168-a813-28f4e8c805cf,streaming.team,resell,88,24,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/01/2020 23:18,13/01/2026 23:18
@@ -389,7 +389,7 @@ f1878649-9f6f-4f13-a300-48f0feed7725,streaming.world,resell,88,24,9,"Chengdu Wes
 a18c89d8-c94e-4291-93c5-64822d775ae8,streaming.wtf,expired,88,24,9,"Sav.com, LLC - 24",30/09/2024 17:00,30/09/2025 17:00
 236a3ff8-cfa6-47df-93d1-b4f022623fee,streaming.xyz,sold,88,24,9,Dynadot LLC,02/06/2014 16:07,02/06/2027 23:59
 f773d4c5-c0e4-4bd6-8cfe-b3909eccb5f9,streaming.yachts,available,88,24,9,,,
-b7d71c2a-347e-4e4c-8128-a52750291f59,streaming.you,available,88,24,9,,,
+b7d71c2a-347e-4e4c-8128-a52750291f59,streaming.you,premium,88,24,9,,,
 c83fe5d2-71fb-4ddb-9ee6-8dd6b51005d9,streaming.zip,premium,88,24,9,,,
 f2910887-b8de-4063-8873-c735d11c2f44,streaming.zone,resell,88,24,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/03/2022 13:15,23/03/2026 13:15
 a2a55812-b06b-4c1b-9d38-5d37ebfed84d,journalism.at,resell,70,80,10,EWBCD GmbH ( https://nic.at/registrar/750 ),,
@@ -875,127 +875,127 @@ d253b63d-f713-46b2-9f2a-1b6593761117,blogging.site,premium,60,36,8,,,
 2fe338ed-3f31-4613-91bf-260db9caa843,blogging.store,premium,60,36,8,,,
 82a6a778-8e41-4320-8e56-8bf0d183f85a,blogging.tech,premium,60,36,8,,,
 338673f9-102d-4372-81e2-fb0779574b47,blogging.us,resell,60,36,8,"NameCheap, Inc.",12/06/2004 09:24,11/06/2026 23:59
-56491c2a-0ef0-4c90-82b8-99b22c8bfc20,television.at,sold,104,88,10,InterNetX GmbH ( https://nic.at/registrar/80 ),,
-f6bb2cd2-9b22-4aec-8dba-658eea93ea79,television.cloud,premium,104,88,10,,,
-5576985e-4a42-44d9-877b-b2071d8274b1,television.dev,premium,104,88,10,,,
-6b6b8f28-9c4e-42f6-b8db-fb8862045df2,television.io,resell,104,88,10,"GoDaddy.com, LLC",29/03/2014 00:42,29/03/2026 00:42
-800a4321-20b9-49ca-9a9a-8b1100c88c98,television.it,expired,104,88,10,,31/08/1999 00:00,29/06/2025 00:00
-78c3858f-0879-45bc-9ab1-9a86e64b33cf,television.net,resell,104,88,10,"NameSilo, LLC",10/05/1995 04:00,11/05/2026 04:00
-896c66a9-ece4-4335-8de1-57603bcb6586,television.online,premium,104,88,10,,,
-29151c34-e6e3-4aa6-b60c-5a8d0be40e75,television.org,resell,104,88,10,"GoDaddy.com, LLC",28/10/1996 05:00,27/10/2025 04:00
-396af897-096b-4406-b82d-1863437faee0,television.pro,resell,104,88,10,Dynadot Inc,02/03/2005 00:00,02/03/2026 00:00
-0876ca05-dbf5-4cab-b2dc-f25a020f0665,television.site,premium,104,88,10,,,
-1b74f74c-b4cd-4f2c-989c-adf0c4d94fc1,television.space,premium,104,88,10,,,
-0812fd32-717a-4e8d-ad8e-f025e1d9c56f,television.store,premium,104,88,10,,,
-cce4b36f-07f7-4b17-9534-eb5c6c2ccecd,television.tech,premium,104,88,10,,,
-0cf4f843-ec67-46a0-9080-915035fa6aeb,management.app,resell,76,84,10,"GoDaddy.com, LLC",08/05/2018 17:10,08/05/2026 17:10
-610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,premium,76,84,10,,,
-5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,76,84,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2026 23:59
-4da35666-49f1-4040-a3da-b200e9155053,management.com,resell,76,84,10,"NameCheap, Inc.",06/06/1997 04:00,05/06/2026 04:00
-576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,premium,76,84,10,,,
-06fb067c-563e-47d7-9903-ca43304da860,management.expert,premium,76,84,10,,,
-62550ad5-4086-4fa1-b997-c6463b8f3091,management.gg,resell,76,84,10,Dynadot Inc. (https://www.dynadot.com),,
-e00d3085-4a5b-4715-aa43-057d10669695,management.io,resell,76,84,10,"Name.com, Inc.",17/05/2024 21:03,17/05/2026 21:03
-6c620f56-b63b-4674-b288-ab49cef371a2,management.me,resell,76,84,10,Dynadot Inc,13/09/2015 02:35,13/09/2025 02:35
-f240a3ef-5324-4e77-af54-3f339bff729b,management.online,premium,76,84,10,,,
-9481735c-16c7-403f-b5b2-f4c5bd451b54,management.org,expiring,76,84,10,"GoDaddy.com, LLC",24/07/1998 04:00,23/07/2025 04:00
-5d44fc0b-3483-4e4c-a410-a23676c59dcc,management.pro,resell,76,84,10,"EnCirca, Inc.",22/06/2007 00:00,22/06/2026 00:00
-7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,premium,76,84,10,,,
-729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,premium,76,84,10,,,
-ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,premium,76,84,10,,,
-70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,premium,76,84,10,,,
-b4f82efc-d313-47fe-a4df-fcd0e316bc83,advertising.at,resell,76,84,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
-1f95f675-5619-4b73-bf31-505e27f98aaa,advertising.cloud,resell,76,84,11,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:15
-cc2b6930-da64-44ce-81c9-f61d200f175b,advertising.dev,premium,76,84,11,,,
-57f70938-76c0-4c8f-8d5b-cd096050a2b6,advertising.expert,premium,76,84,11,,,
-756cc019-d1a6-4ec7-9d3c-79708a05e96d,advertising.io,resell,76,84,11,Divido Ltd,05/01/2008 13:57,30/04/2027 12:00
-2845bcfc-f22a-454d-a343-d0386705a17b,advertising.ninja,premium,76,84,11,,,
-5a03eb3f-018e-4e64-8582-d8a9c22d76b4,advertising.online,premium,76,84,11,,,
-58501b0e-791c-4727-8d2c-ef89ed099a50,advertising.site,premium,76,84,11,,,
-8f5d94a6-a1c8-4172-b22a-1ab8ffaaed21,advertising.so,available,76,84,11,,,
-d3c00d13-6ebf-4001-b576-fffcbf505a1c,advertising.space,premium,76,84,11,,,
-76f7fd4b-ae00-48c2-a07e-5643d5b24008,advertising.store,premium,76,84,11,,,
-9f4dc62c-5db1-42e1-a050-1b74c53ba08e,advertising.us,resell,76,84,11,Porkbun,24/04/2002 14:00,23/04/2026 23:59
-6995e47d-4b04-42b4-9b6e-73b2b8a376a0,advertising.xyz,resell,76,84,11,Edomains LLC,02/06/2014 12:31,02/06/2026 23:59
-85c10e43-a291-4656-b1bb-417b84026da4,live.ac,resell,108,33,4,Key-Systems GmbH,27/08/2011 18:28,27/08/2026 18:28
-88503861-34f0-4f5e-8985-09238dddbba3,live.accountant,premium,108,33,4,,,
-afd40f37-df90-44a8-85d6-a1dcf5699b70,live.accountants,sold,108,33,4,"NameCheap, Inc.",04/10/2024 07:02,04/10/2026 07:02
-6f1f89e4-1be6-4898-8d19-a5dc6c1f1580,live.ag,expiring,108,33,4,NicAg Registrar,29/08/2016 14:24,29/08/2025 14:24
-f9df7c15-0c94-463d-9af7-98e2e98d68c5,live.ai,sold,108,33,4,"CSC Corporate Domains, Inc.",16/12/2017 02:33,15/09/2027 02:33
-9c23fa11-b93b-4a63-84e2-e4dff5e83c78,live.airforce,premium,108,33,4,,,
-73ad290a-0803-4e7b-9b5c-8777e830b2a2,live.archi,resell,108,33,4,"NameCheap, Inc.",31/01/2025 08:18,31/01/2026 08:18
-f9be88ac-cfe5-4c58-9686-9a352b195682,live.army,premium,108,33,4,,,
-d0eb1765-b822-4e62-a0b5-f7d7f73e8afc,live.art,premium,108,33,4,,,
-0e9ef5ad-71ff-4e7c-a0db-379c85a60c6b,live.asia,premium,108,33,4,,,
-a4e424ca-978b-4d83-8a48-f6992333bac9,live.associates,premium,108,33,4,,,
-6a00e231-6927-4662-a203-cd2188cdc1e2,live.at,expired,108,33,4,"CSC Corporate Domains, Inc. ( https://nic.at/registrar/533 )",,
-617b2678-7d95-438e-bf04-9f7d0a27fe68,live.attorney,premium,108,33,4,,,
-aae2bb95-ec9c-4dfa-8b15-f5cc5562bd72,live.auction,premium,108,33,4,,,
-70bfd173-b45c-4e76-bf94-327d24899405,live.auto,available,108,33,4,,,
-878e6ec9-6203-4e02-b6ad-33073eaca187,live.autos,premium,108,33,4,,,
-50c2cde4-cef3-4574-b21a-31153bf83eac,live.baby,premium,108,33,4,,,
-5a8b45c4-4d36-4bf1-9ac6-636a4d647e7b,live.band,premium,108,33,4,,,
-9cdf96e5-d560-4f09-b6da-83f376e190e8,live.bar,premium,108,33,4,,,
-9ec6f1c0-f184-4cac-a6fd-10cd283cf926,live.bargains,premium,108,33,4,,,
-90371874-14b0-4dcc-9891-29dbac6b177b,live.bayern,premium,108,33,4,,,
-f3033ff8-edb8-4c1d-ba7d-b40c5a4c9e6a,live.beauty,premium,108,33,4,,,
-0929c7a5-5d63-4c34-b9cc-e4481d863a86,live.berlin,resell,108,33,4,,27/11/2015 20:12,27/11/2026 20:12
-487ff9ee-14de-4985-9fa6-59f1abb1aaa7,live.bio,resell,108,33,4,"eNom, LLC",21/08/2014 22:05,21/08/2026 22:05
-5f29fa52-8133-4da9-b8ff-de73cceae799,live.black,resell,108,33,4,"Xiamen ChinaSource Internet Service Co., Ltd",07/05/2025 15:15,07/05/2026 15:15
-0afcc462-b93f-4d61-9fef-41ab2cb61b92,live.blog,premium,108,33,4,,,
-4383d92a-8451-42a8-8a17-b916af52cf29,live.blue,resell,108,33,4,"Spaceship, Inc.",11/07/2024 15:15,11/07/2026 15:15
-7792c23a-5dfd-4163-b7b7-45ea6bfcb213,live.boats,premium,108,33,4,,,
-2fda7b9f-034d-45ef-ab2f-49d09f8fa144,live.boo,premium,108,33,4,,,
-0441cb02-4e5c-4fbe-8cf5-ecc71ca31024,live.bot,premium,108,33,4,,,
-1773ee08-ad0f-44ec-8192-c97c2b5186f7,live.boutique,resell,108,33,4,"Global Domains International, Inc. DBA DomainCostClub.com",01/04/2025 15:15,01/04/2026 15:15
-efcfdbf9-a98c-4f46-b0b2-43811eefef0e,live.build,premium,108,33,4,,,
-ef71ae41-2624-4d94-b0e8-fc2b7137da27,live.builders,sold,108,33,4,Dynadot Inc,15/03/2025 15:15,15/03/2027 15:15
-a9c5bb33-4124-41ee-a093-e532a1db41ca,live.buzz,expired,108,33,4,Dot Strategy Co,15/08/2017 14:25,15/08/2025 14:25
-6eadefaf-6961-4a78-be62-852d15689ee4,live.bz,sold,108,33,4,"CSC Corporate Domains, Inc.",30/07/2001 19:00,30/10/2026 19:00
-6f72d69e-abef-4529-a876-b00b3494722a,live.ca,expiring,108,33,4,CSC Corporate Domains (Canada) Company,04/10/2000 11:00,29/12/2025 05:00
-06bb9cb9-d24e-42ca-84c5-29bff68123ff,live.cab,premium,108,33,4,,,
-fcbaed4c-438b-4b26-bdb3-b801bbbcabde,live.cafe,resell,108,33,4,"Chengdu West Dimension Digital Technology Co., Ltd.",16/07/2015 15:18,16/07/2026 15:18
-94d384bb-126b-4e3f-a552-7b7b66c8787c,live.cam,sold,108,33,4,Cam Connecting SARL,20/09/2016 11:59,20/09/2026 23:59
-638547e4-7416-47ea-a5cb-b0ba1505e040,live.camera,sold,108,33,4,"Name.com, Inc.",21/09/2023 20:20,21/09/2026 20:20
-18649553-b591-4eb8-9e73-7297e9409123,live.camp,premium,108,33,4,,,
-404afd48-4150-46da-b5df-e959d69c8dab,live.car,available,108,33,4,,,
-4662b7b7-6cca-4ae8-aed8-e6cf01a170f7,live.careers,sold,108,33,4,"Cloudflare, Inc",05/09/2025 05:30,05/09/2026 05:30
-e4752ac9-729f-4091-89ca-85a1c36f1ea2,live.cars,available,108,33,4,,,
-06c1629d-d711-4078-b556-19c24f91d891,live.casa,resell,108,33,4,"Sav.com, LLC - 2",24/05/2025 00:00,24/05/2026 00:00
-398b19b2-686f-4af3-8b8d-cc85edcb29be,live.cash,sold,108,33,4,Dynadot Inc,11/05/2025 15:15,11/05/2027 15:15
-492a14c6-c0e4-4ee2-897f-26b8d1c8bb10,live.catering,premium,108,33,4,,,
-b2760b3c-269d-400f-8d72-cb2d5e6c5933,live.center,sold,108,33,4,Porkbun LLC,22/09/2016 11:04,22/09/2026 11:04
-bf393d0c-931d-4225-80eb-efaa6e92a7a6,live.ceo,premium,108,33,4,,,
-c916c754-ff97-4142-99a6-445a773e4887,live.cfd,resell,108,33,4,Dynadot LLC,24/04/2021 23:49,24/04/2026 23:59
-1596113f-5d44-4f44-89fc-caf65c0b698f,live.city,sold,108,33,4,"GoDaddy.com, LLC",02/08/2015 16:33,02/08/2026 16:33
-ad481f63-36b6-436e-94b3-161efab39aa1,live.cleaning,premium,108,33,4,,,
-6e671ff2-3d68-46af-8c05-2dc1fa486641,live.clothing,resell,108,33,4,"Spaceship, Inc.",29/08/2022 13:15,29/08/2026 13:15
-f10a794f-9348-4d55-9274-841f14bf5760,live.cloud,premium,108,33,4,,,
-60a71dbe-829c-4ecd-ba21-6fe48150c0db,live.coach,sold,108,33,4,Dynadot Inc,26/05/2018 23:17,26/05/2026 23:17
-f907ab62-4377-4a3c-a1a9-b910123d9a84,live.coffee,resell,108,33,4,"Spaceship, Inc.",21/05/2023 15:15,21/05/2026 15:15
-ee1e73da-b6df-480c-a4b8-2d123ba6d56b,live.college,premium,108,33,4,,,
-e297a8a6-3ba7-4db7-a6e7-789079fa787a,live.com,expiring,108,33,4,"CSC Corporate Domains, Inc.",28/12/1994 05:00,27/12/2025 05:00
-b4c5dfe6-bdbd-4330-b41f-c47e83123c9d,live.community,sold,108,33,4,Dynadot Inc,11/02/2020 15:21,11/02/2026 15:21
-b130e8c8-c66b-4f48-bbc0-8038e5e62a3b,live.company,resell,108,33,4,"Spaceship, Inc.",17/09/2023 15:15,17/09/2026 15:15
-07270d9a-9c9b-4d94-b732-2d940fd3dbff,live.condos,premium,108,33,4,,,
-c53fe8cb-d983-4f6c-b8c9-8d4273fa075b,live.cooking,resell,108,33,4,"GoDaddy.com, LLC",06/11/2020 15:50,06/11/2026 15:50
-022e2db8-649a-46c6-ad45-4d1e59fcaa8b,live.cool,resell,108,33,4,"Chengdu West Dimension Digital Technology Co., Ltd.",16/09/2016 09:52,16/09/2027 09:52
-13c22194-a465-4c0b-9d87-807684a797e4,live.country,premium,108,33,4,,,
-229e42df-fb86-41f6-9a5b-d69e3fddb64a,live.coupons,resell,108,33,4,"Sav.com, LLC",13/11/2025 05:14,13/11/2026 05:14
-b42171a5-357f-4935-8806-8ecc435a75da,live.courses,expired,108,33,4,Key-Systems LLC,14/11/2015 15:30,14/11/2025 15:30
-097fe8a1-fe69-416e-a9b6-2cdeec6fdba0,live.credit,premium,108,33,4,,,
-f0c8d54c-3862-4ae3-9773-14c1c0f16181,live.creditcard,premium,108,33,4,,,
-29a97d15-a0f4-44cb-826d-cfbcc91b3537,live.cricket,premium,108,33,4,,,
-0e3abb44-67e8-452d-a529-bb9ba9dd5c0b,live.cv,premium,108,33,4,,,
-e706e02f-2958-4a20-a033-90c253842a38,live.cx,resell,108,33,4,West263 International Limited,12/06/2023 00:00,12/06/2027 00:00
-021c5603-5889-4c00-a187-f15046a00f0e,live.dad,premium,108,33,4,,,
-09c13a79-9ea6-4474-8bbd-3d52e291281f,live.dance,premium,108,33,4,,,
-e224eeaa-ac51-471b-89cc-ede521f07e80,live.date,premium,108,33,4,,,
-c27bcc62-ee45-4f21-875c-7201f961e0f5,live.dating,premium,108,33,4,,,
-c7b3af30-5009-4a29-a1d0-3f1beef4742b,live.de,sold,108,33,4,,,
-acdbee01-8aed-49fb-94b4-7480b4ec6f18,live.deal,premium,108,33,4,,,
-18c8fd31-244f-4c48-9b33-1f45afc6a4b9,live.degree,premium,108,33,4,,,
-bed47bb5-8dc7-478a-a43e-54589ee4d112,live.delivery,premium,108,33,4,,,
-1c9198d1-bbb4-4f45-a198-29a54d617c44,live.dental,available,108,33,4,,,
-81b0c16f-6794-4dc5-89a6-8724fb54c738,live.dentist,premium,108,33,4,,,
-b11b8d5e-7f94-4b73-bf1d-60caafe2f398,live.diamonds,sold,108,33,4,"NameCheap, Inc.",14/10/2025 15:15,14/10/2026 15:15
+08f29971-f164-464c-9d9e-e66b071ba1db,television.accountant,available,104,16,10,,,
+1a9a35d8-c70c-44c8-8c71-b6b82e82f586,television.accountants,available,104,16,10,,,
+027a95c8-78c7-4a18-b558-0b886ed88feb,television.actor,available,104,16,10,,,
+ebf80c6b-597e-4951-88a9-c4712ff67677,television.adult,available,104,16,10,,,
+715a6db9-3ede-4797-8607-7048fabba599,television.ag,available,104,16,10,,,
+8770529f-c0ef-497d-8936-182631709788,television.airforce,available,104,16,10,,,
+aa81a6d6-ad4c-4434-839b-4fadfde25f85,television.apartments,available,104,16,10,,,
+ec35db7e-f586-4074-a805-2435cbce1ba4,television.archi,available,104,16,10,,,
+8213eec0-d16f-41f3-8711-9cec6836ab47,television.army,available,104,16,10,,,
+2bbc130c-d67a-42cf-bedc-900f64088f43,television.art,available,104,16,10,,,
+4f55188c-0b4e-48c1-9a30-62fe99255923,television.associates,available,104,16,10,,,
+56491c2a-0ef0-4c90-82b8-99b22c8bfc20,television.at,sold,104,16,10,InterNetX GmbH ( https://nic.at/registrar/80 ),,
+14b32d66-0263-41b2-bf1e-cc675ba921c4,television.attorney,available,104,16,10,,,
+323969bf-569d-41d6-b317-9377b3d56e7a,television.auction,available,104,16,10,,,
+319e93a2-e388-44e4-aaf8-4c934b04208b,television.audio,available,104,16,10,,,
+a6804e92-9e1d-47f5-8ccf-57409f4b3770,television.auto,available,104,16,10,,,
+68374c75-2f0b-4e92-8af5-080a35170e05,television.autos,available,104,16,10,,,
+21bc485b-ec19-46bf-86ec-14f6390afd86,television.baby,available,104,16,10,,,
+4507090b-7514-4b14-a5c9-3f3173c47dea,television.bar,available,104,16,10,,,
+79120bf3-e892-4a02-87a1-d2880eee2f74,television.bargains,available,104,16,10,,,
+797a0d0b-7a76-42a7-ab59-2f53bce58408,television.bayern,available,104,16,10,,,
+80df8f0d-3896-472f-934b-0070897eca63,television.beauty,expired,104,16,10,"Spaceship, Inc.",18/10/2024 01:07,18/10/2025 23:59
+d0f7e017-af6a-4f23-a9e1-eac5d3e0be47,television.berlin,available,104,16,10,,,
+8f3dcf10-327b-44a1-a76a-99f816d15302,television.best,resell,104,16,10,Dynadot LLC,27/04/2020 13:58,27/04/2026 23:59
+d52f9618-a7c5-4d1c-9d99-bac9ba5c32c9,television.bid,available,104,16,10,,,
+6f408322-c49a-4c15-ab5f-432c1291ce80,television.bike,available,104,16,10,,,
+8aa453f3-028e-4006-9c19-fb45c9247638,television.bingo,available,104,16,10,,,
+9d55a73a-afbe-4438-aa10-3506faf4b482,television.bio,available,104,16,10,,,
+1857f00a-f349-4be9-84d3-4ec9d1e21e2a,television.black,available,104,16,10,,,
+253b6d29-8aef-44ff-8fe6-4eb80cab0141,television.blackfriday,available,104,16,10,,,
+48672190-1471-4d7b-b9b3-6836c0d91cf0,television.blog,available,104,16,10,,,
+eae43986-0208-4a6a-9fc9-860fc8cdd183,television.blue,available,104,16,10,,,
+fa1e2b8e-8327-4757-9538-a34d5202fc42,television.boats,available,104,16,10,,,
+3f041c58-d63b-49d3-a40f-675f260108c6,television.bond,available,104,16,10,,,
+8bc08754-2dba-4421-ad8b-1341e5936f14,television.boo,available,104,16,10,,,
+90a89ae0-da4c-40f5-abac-53f34752c1c8,television.boston,available,104,16,10,,,
+bd68d34b-35bc-4240-b2ea-c501853d6682,television.bot,available,104,16,10,,,
+8951a7e0-abcb-4e3f-b63a-4a30e64d8565,television.boutique,available,104,16,10,,,
+8f61448e-d4fc-4906-a34c-7662734a8efd,television.build,available,104,16,10,,,
+fc842ba2-cd98-4fcc-afd6-b015fc7daa8b,television.builders,available,104,16,10,,,
+b7bc9130-412d-45e8-8175-973e32b14ce1,television.business,expiring,104,16,10,InterNetX GmbH,10/12/2014 16:25,10/12/2025 16:25
+73ba3341-0409-48ee-aeb5-206b57fe9b22,television.buzz,available,104,16,10,,,
+1722436c-4b00-496b-8153-2a8675fadd3e,television.bz,available,104,16,10,,,
+9a23db37-8009-41ee-8d77-4943ef966dda,television.ca,resell,104,16,10,egate DOMAINS Inc.,18/10/2000 18:08,25/09/2026 04:00
+3e21cccc-b8bf-4784-af06-15081922f345,television.cab,available,104,16,10,,,
+4f97128d-5738-4935-a559-b5895ca8f88f,television.cam,expiring,104,16,10,"Spaceship, Inc.",12/12/2024 04:08,12/12/2025 23:59
+0c2ff593-9b52-40ac-8901-e7ce157ad4df,television.camera,available,104,16,10,,,
+edbdd56b-3fff-4373-823e-35af5fed1cbf,television.camp,available,104,16,10,,,
+78daf780-0004-4cfe-b7b7-893f65f754c0,television.capital,available,104,16,10,,,
+e5c64d0f-91fe-40ca-ad2b-678e7d1dd392,television.car,available,104,16,10,,,
+42632025-6c24-43d7-b0b2-4a3ed2162c17,television.cards,available,104,16,10,,,
+dbbeaa12-8bc5-45d9-82e0-9fc38d4119ce,television.care,available,104,16,10,,,
+86ecb854-fd66-4580-8c70-3fbde7528afa,television.careers,available,104,16,10,,,
+3322cde4-606a-4e59-975e-87a0190afdbc,television.cars,available,104,16,10,,,
+905f5c2c-e50f-4d5d-940c-d273bb5ca458,television.casa,available,104,16,10,,,
+2039253e-af63-4640-b5c4-b37ccd5d2b2b,television.cash,available,104,16,10,,,
+0241fa4d-9f19-4efa-800c-ce34ee9f067a,television.casino,available,104,16,10,,,
+3991b3c6-6ded-459c-b60a-f5cb0b27abc7,television.catering,available,104,16,10,,,
+0c399f5d-3f26-4545-962e-5b6fe96401f0,television.cc,resell,104,16,10,Gname 199 Inc,07/06/2025 08:01,07/06/2026 08:01
+9fbfaadd-b9a7-461f-9ec0-97068eea3644,television.center,resell,104,16,10,"Sav.com, LLC - 31",07/04/2025 15:15,07/04/2026 15:15
+247e621f-9648-410e-9979-2db389f097d9,television.ceo,available,104,16,10,,,
+f229dac2-5115-434e-a15e-bb3f176de0e5,television.cfd,available,104,16,10,,,
+932cc5ca-a49e-41e5-ab69-59a5ede2487f,television.charity,available,104,16,10,,,
+8098fad5-ade1-4ea2-9b64-2c297c20a21d,television.chat,resell,104,16,10,"Xiamen ChinaSource Internet Service Co., Ltd",27/09/2024 17:00,27/09/2026 17:00
+c5600235-0d34-47bb-969e-6fa1ca22b039,television.cheap,available,104,16,10,,,
+5c8fe297-ed92-4611-ba9f-3147f4afc624,television.christmas,available,104,16,10,,,
+ae2f614e-d64d-4e35-bad8-49998c237405,television.church,available,104,16,10,,,
+03860935-d777-4c3e-8e1d-5d42cb1ec105,television.city,resell,104,16,10,"Sav.com, LLC",12/01/2025 17:10,12/01/2026 17:10
+a49fc213-ff6d-4689-bbfc-b0788dfd3bf4,television.claims,available,104,16,10,,,
+10d3dcaf-a078-4739-9c90-e58d604a38bb,television.cleaning,available,104,16,10,,,
+3fe079d9-6a51-4e98-bf3c-47776c25dfea,television.clinic,available,104,16,10,,,
+b9e91524-d7f5-4681-9760-b1fa13ca1bd0,television.clothing,available,104,16,10,,,
+f6bb2cd2-9b22-4aec-8dba-658eea93ea79,television.cloud,premium,104,16,10,,,
+a887bda1-6c21-4ad6-ba21-32a7ae6b3ef3,television.club,available,104,16,10,,,
+48e94320-9b26-4c55-b4da-03eb251635d0,television.codes,available,104,16,10,,,
+a7bf750b-abc9-4394-863e-1a7274e3b51a,television.coffee,available,104,16,10,,,
+b26271bb-1a3f-4d1b-b410-a64604d7f859,television.college,available,104,16,10,,,
+3a835ac0-f28e-4974-9c97-d2f788fa5540,television.community,available,104,16,10,,,
+4efd9dfa-ae65-4d8f-b420-8da6f51ef02f,television.condos,available,104,16,10,,,
+47df69f7-8d30-45ee-b59c-e11e04ffc82e,television.construction,available,104,16,10,,,
+6431ce52-37ea-4dc3-970c-2393b5c2189b,television.consulting,available,104,16,10,,,
+5cb438e2-2b63-4e2f-828e-daf59373a4f7,television.contact,available,104,16,10,,,
+e9821ac4-bcf8-4115-aa6a-436517aa1bcb,television.contractors,available,104,16,10,,,
+389bdaa5-c6b0-4ab7-9ced-2671fc1d3d6f,television.cooking,available,104,16,10,,,
+dc439be1-b492-4545-b819-4b6ac8a99110,television.cool,available,104,16,10,,,
+1e0f278f-3488-4495-b22d-8de9aa889d76,television.country,available,104,16,10,,,
+413466fc-fe3e-45c6-86d2-e8a0cf145b05,television.coupons,available,104,16,10,,,
+bdc4bfda-b4d5-45ce-ad5e-1ff3f41bdb49,television.courses,available,104,16,10,,,
+8bf77dc0-58a9-45d3-beb8-da54b8b8d332,television.creditcard,available,104,16,10,,,
+1a75872e-edfd-42ef-b406-d09c3d24e87d,television.cricket,available,104,16,10,,,
+8c557760-473c-4aae-8db6-b0acf61be823,television.cruises,available,104,16,10,,,
+aa4a9ab1-661e-4c83-bfc0-2d810e2eefe5,television.cv,available,104,16,10,,,
+96af5aa2-541d-429a-a63a-67cd76affc4f,television.cyou,available,104,16,10,,,
+f2b243b2-dbf8-4371-9531-7123a80ec4f0,television.dad,available,104,16,10,,,
+2c09207f-31a2-4bfc-8415-a648c7042da9,television.dance,available,104,16,10,,,
+9760b8f2-875a-4964-8464-114097d186d0,television.date,available,104,16,10,,,
+1a7ff800-dfc4-4f8d-9f9f-e4936cacfbd9,television.dating,available,104,16,10,,,
+cb645afe-0a15-42cf-8533-bde1aa82380f,television.day,available,104,16,10,,,
+4d29c13f-3877-453c-b1c0-f787080e1091,television.deal,available,104,16,10,,,
+ed286e40-c6e8-4528-bd22-d8a450e4dc31,television.dealer,available,104,16,10,,,
+f7c2157b-6c81-4868-99b8-4ef4710919e0,television.deals,available,104,16,10,,,
+f56192ee-87bf-40d8-ab57-b4c8bca8cf57,television.degree,available,104,16,10,,,
+d4153616-bee8-470a-9bb0-3fab1edcb74a,television.delivery,available,104,16,10,,,
+9402d781-9650-473d-8b95-8dc6a30c018c,television.democrat,available,104,16,10,,,
+5e54e69c-e41b-4f8f-b839-1fb1496504e8,television.dental,available,104,16,10,,,
+1e202420-7e0f-4b22-a5cb-2779712978d2,television.dentist,available,104,16,10,,,
+aa776902-b38a-4f7e-9089-f7d745178404,television.design,available,104,16,10,,,
+5576985e-4a42-44d9-877b-b2071d8274b1,television.dev,premium,104,16,10,,,
+bbac3d96-d707-405c-a59d-6170be277c12,television.diamonds,available,104,16,10,,,
+eadf7967-da09-497a-b287-ed3d206d5734,television.diet,available,104,16,10,,,
+920e8319-0ddf-4240-98b4-33c5e586b13c,television.digital,resell,104,16,10,"Sav.com, LLC - 17",23/01/2024 15:15,23/01/2026 15:15
+3a730e78-2d66-42de-bc8f-e43e7372203e,television.direct,available,104,16,10,,,
+0d471606-ff51-4377-b5a1-4464a3de8b7a,television.directory,resell,104,16,10,Porkbun LLC,21/05/2018 04:30,21/05/2026 04:30
+6c8a36a1-ecf4-44ab-b91c-3db4e62be2d1,television.discount,available,104,16,10,,,
+229fb0b8-ed33-4eca-84fb-2b1615bb399f,television.doctor,resell,104,16,10,"GoDaddy.com, LLC",26/03/2019 18:53,26/03/2026 18:53
+825314e1-8929-4b5b-a2aa-a01f16372a15,television.dog,available,104,16,10,,,
+f994c950-5775-403a-aef2-82f88ada3386,television.download,available,104,16,10,,,
+715314e8-1fb6-4bd1-9b2c-f23b0c2fe3f6,television.energy,available,104,16,10,,,
+3726b578-ba30-40d8-bc2f-44793e6bffe7,television.engineer,available,104,16,10,,,
+32e2c3c7-36e1-4ce4-b768-0c155a85212b,television.engineering,available,104,16,10,,,
+ccd40bd1-1c13-4adb-96cd-9ab438eea95c,television.enterprises,available,104,16,10,,,
+052af273-22ca-4a89-85aa-1ddb4caf2ae9,television.equipment,available,104,16,10,,,
+9571b72e-6da4-4878-98e4-376d2ed28c62,television.esq,available,104,16,10,,,
+6ae113d4-dd0b-42de-847a-b94cf158024f,television.estate,available,104,16,10,,,
