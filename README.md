@@ -1,62 +1,62 @@
 
-# List of .MEDIA One Word Domain Names (6,189)
+# List of Media One Word Domain Names (23,162)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/media-oneword-domains.svg?style=flat)]() [![6,189 .MEDIA one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-6%2C189-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Media-oneword-domains.svg?style=flat)]() [![23,162 Media one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-23%2C162-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .MEDIA one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Media one-word domains still available to buy.
 
-This dataset contains 6,186 .MEDIA one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Media one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.MEDIA one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=description.top) (6,189) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Media one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=description.top) (23,162) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/media-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/media-oneword-domains/blob/main/media.csv"><b>⬇️ CSV (6.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/media-oneword-domains/blob/main/media.json"><b>⬇️ JSON (6.19K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (6.19K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Media-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Media-oneword-domains/blob/main/Media.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Media-oneword-domains/blob/main/Media.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (23.16K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ---------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| abactinal.media  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abaft.media      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abandoned.media  | available | 58       | 7%     | 9      |                   |                  |                  |
-| abashed.media    | available | 60       | 2%     | 7      |                   |                  |                  |
-| abasic.media     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abatable.media   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abatic.media     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abaxial.media    | available | 54       | 2%     | 7      |                   |                  |                  |
-| abbatial.media   | available | 50       | 1%     | 8      |                   |                  |                  |
-| abdicable.media  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abdominal.media  | available | 82       | 1%     | 9      |                   |                  |                  |
-| abdominous.media | available | 56       | 1%     | 10     |                   |                  |                  |
-| abducens.media   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abducent.media   | available | 68       | 1%     | 8      |                   |                  |                  |
-| abducting.media  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abenaki.media    | available | 82       | 3%     | 7      |                   |                  |                  |
-| aberdonian.media | available | 68       | 1%     | 10     |                   |                  |                  |
-| abeyant.media    | available | 56       | 2%     | 7      |                   |                  |                  |
-| abhorrent.media  | available | 54       | 1%     | 9      |                   |                  |                  |
-| abiding.media    | available | 106      | 5%     | 7      |                   |                  |                  |
-| abient.media     | available | 54       | 1%     | 6      |                   |                  |                  |
-| ability.media    | resell    | 92       | 16%    | 7      | Sav.com, LLC - 31 | 08/10/2025 15:16 | 08/10/2026 15:16 |
-| abit.media       | available | 68       | 12%    | 5      |                   |                  |                  |
-| abject.media     | available | 94       | 8%     | 6      |                   |                  |                  |
-| abkhas.media     | available | 68       | 1%     | 6      |                   |                  |                  |
-| abkhasian.media  | available | 78       | 1%     | 9      |                   |                  |                  |
-| abkhazian.media  | available | 78       | 1%     | 9      |                   |                  |                  |
-| ablated.media    | available | 52       | 2%     | 7      |                   |                  |                  |
-| ablative.media   | available | 68       | 3%     | 8      |                   |                  |                  |
-| abnaki.media     | available | 68       | 2%     | 6      |                   |                  |                  |
+| Domain                  | Status    | Attract. | Demand | Length | Registrar           | Created          | Expires          |
+| ----------------------- | --------- | -------- | ------ | ------ | ------------------- | ---------------- | ---------------- |
+| publishing.app          | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.at           | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.cloud        | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.dev          | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.gg           | available | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.io           | resell    | 68       | 76%    | 10     | DomainClub.com, LLC | 02/02/2018 10:09 | 02/02/2026 10:09 |
+| publishing.it           | expired   | 68       | 76%    | 10     |                     | 28/06/2015 16:00 | 28/06/2025 00:00 |
+| publishing.me           | expiring  | 68       | 76%    | 10     | Epik LLC            | 17/07/2008 15:02 | 17/07/2025 15:02 |
+| publishing.online       | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.pro          | resell    | 68       | 76%    | 10     | Porkbun LLC         | 08/03/2007 00:00 | 08/03/2026 00:00 |
+| publishing.site         | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.so           | available | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.space        | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.store        | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| publishing.tech         | premium   | 68       | 76%    | 10     |                     |                  |                  |
+| production.coffee       | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.college      | premium   | 70       | 23%    | 10     |                     |                  |                  |
+| production.community    | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.company      | resell    | 70       | 23%    | 10     | 1API GmbH           | 24/06/2015 16:00 | 24/06/2026 16:00 |
+| production.computer     | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.condos       | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.construction | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.consulting   | premium   | 70       | 23%    | 10     |                     |                  |                  |
+| production.contractors  | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.cooking      | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.cool         | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.country      | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.coupons      | available | 70       | 23%    | 10     |                     |                  |                  |
+| production.courses      | premium   | 70       | 23%    | 10     |                     |                  |                  |
+| production.credit       | available | 70       | 23%    | 10     |                     |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/media-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/media-oneword-domains/blob/main/media.csv"><b>⬇️ CSV (6.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/media-oneword-domains/blob/main/media.json"><b>⬇️ JSON (6.19K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (6.19K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Media-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Media-oneword-domains/blob/main/Media.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Media-oneword-domains/blob/main/Media.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (23.16K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -644,11 +644,11 @@ If you want to search & filters the complete database of [.MEDIA one word domain
 | Travel             | 24,055       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,271       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/media-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Media-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=description.image)
         
