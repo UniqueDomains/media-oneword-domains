@@ -14,6 +14,9 @@ bcdeec10-bab7-4e49-b2e0-b954357bcd63,publishing.so,available,68,76,10,,,
 a2246e3b-e82c-4a81-8c0a-b09bda63f7f7,publishing.space,premium,68,76,10,,,
 685fa658-a0ea-4cf8-8e60-a97ec9912b93,publishing.store,premium,68,76,10,,,
 566d8b9f-1318-472e-baf2-f398ae02f963,publishing.tech,premium,68,76,10,,,
+0771a9e7-5c38-48fe-ad42-aa5daf23c2cc,production.accountant,premium,70,23,10,,,
+14974b53-e5ee-44c7-b2a9-af54f5abba9b,production.accountants,available,70,23,10,,,
+73303b87-94d1-47cd-8ac1-6d006c97fd78,production.actor,available,70,23,10,,,
 299647f3-a6fd-4d76-871b-caf5eca9b99d,production.adult,available,70,23,10,,,
 3e169852-5d59-4a15-840c-b3ac58ec865f,production.agency,expired,70,23,10,"Sav.com, LLC - 5",04/10/2024 15:15,04/10/2025 15:15
 a01349d2-953a-48a7-a5eb-3dfc20bb3a82,production.airforce,available,70,23,10,,,
@@ -385,9 +388,6 @@ bdf56817-a158-42c0-89e3-7f49fc7b860a,production.works,resell,70,23,10,"Sav.com, 
 6b290e21-90e2-48ee-adae-f9fc4c215359,production.yoga,available,70,23,10,,,
 c16b38b9-618e-4f6c-9887-6a62cd21c8d3,production.you,premium,70,23,10,,,
 dd76f4c6-83f6-46fa-a76e-0e11d53eb926,production.zip,premium,70,23,10,,,
-0771a9e7-5c38-48fe-ad42-aa5daf23c2cc,production.accountant,premium,70,23,10,,,
-14974b53-e5ee-44c7-b2a9-af54f5abba9b,production.accountants,available,70,23,10,,,
-73303b87-94d1-47cd-8ac1-6d006c97fd78,production.actor,available,70,23,10,,,
 5bd5a52c-6563-4814-8835-5c6668788046,streaming.accountant,premium,88,24,9,,,
 a537d32e-3b6c-4e90-9322-b8dc759aaae9,streaming.accountants,available,88,24,9,,,
 4fcf1efc-d366-48b9-b874-87b146784fb9,streaming.actor,available,88,24,9,,,
@@ -881,7 +881,7 @@ da5ea0ab-8df8-4b0d-a371-513aa880001b,journalism.diy,available,70,14,10,,,
 6b349b73-3697-4066-bfa8-8186e12907f0,journalism.dog,available,70,14,10,,,
 e67f0005-8a37-4fb0-a13e-875a78f44671,journalism.domains,available,70,14,10,,,
 d6a957a4-e567-4f8b-83ad-25437bee50c1,journalism.download,available,70,14,10,,,
-fc67d8f8-a0b9-4131-a293-5ba72f359e2f,journalism.education,expiring,70,14,10,Dreamscape Networks International Pte Ltd,17/12/2021 04:10,17/12/2025 04:10
+fc67d8f8-a0b9-4131-a293-5ba72f359e2f,journalism.education,sold,70,14,10,Dreamscape Networks International Pte Ltd,17/12/2021 04:10,17/12/2026 04:10
 e9b0ec5c-5ee6-4e0d-829d-a575d0098c78,journalism.energy,available,70,14,10,,,
 4e76feba-b05e-4b03-ab95-804c5332e054,journalism.engineer,available,70,14,10,,,
 64978848-d514-4c7c-8f5a-a5ef789d72fc,journalism.engineering,available,70,14,10,,,
@@ -974,7 +974,7 @@ ba711b0e-a914-47c8-bed5-bb74f834e6b6,journalism.ing,premium,70,14,10,,,
 5d1c4055-a508-4260-96c6-9402e496d714,journalism.institute,resell,70,14,10,Unstoppable Domains Inc,08/10/2022 09:06,08/10/2026 09:06
 8d9d79a0-5402-49f7-a87c-899c5337b8fa,journalism.insure,available,70,14,10,,,
 7fb0c4d5-7959-4e9b-a067-89332c46b2a5,journalism.investments,available,70,14,10,,,
-61cfc5cc-5f71-4148-9c23-8ff4ac412f9c,journalism.io,expiring,70,14,10,"GoDaddy.com, LLC",11/12/2016 03:17,11/12/2025 03:17
+61cfc5cc-5f71-4148-9c23-8ff4ac412f9c,journalism.io,resell,70,14,10,"GoDaddy.com, LLC",11/12/2016 03:17,11/12/2026 03:17
 a9e0977f-bc16-49ce-9467-f6b588055ce1,journalism.irish,available,70,14,10,,,
 e7e3ffa2-3bc0-459f-8d98-5375043ae44b,journalism.it,sold,70,14,10,,06/07/2015 09:00,06/07/2026 00:00
 487b161d-cc05-4e66-a9ba-240c9bdc8f5f,journalism.jetzt,available,70,14,10,,,
