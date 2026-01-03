@@ -405,7 +405,7 @@ f0ebbbeb-dfea-47de-b5b9-fb2019dc54dd,streaming.art,premium,88,24,9,,,
 ee21cc08-83b4-4aff-ba34-e70fb2ee3372,streaming.associates,available,88,24,9,,,
 7837bab3-08fb-4408-9c5d-90aee871d9b0,streaming.at,available,88,24,9,,,
 73e7bf0e-0ff2-4841-915a-1664a94e21af,streaming.attorney,available,88,24,9,,,
-2c7dbd6b-bd0a-4f25-8ba9-e5b2b26fe3f8,streaming.auction,resell,88,24,9,Epik LLC,18/01/2015 21:47,18/01/2026 21:47
+2c7dbd6b-bd0a-4f25-8ba9-e5b2b26fe3f8,streaming.auction,expiring,88,24,9,Epik LLC,18/01/2015 21:47,18/01/2026 21:47
 c8cd4106-d216-4475-9561-ded19a566833,streaming.auto,available,88,24,9,,,
 6f8c810f-3cd7-402f-8153-9b3f3bd480dc,streaming.autos,resell,88,24,9,Namecheap,16/02/2025 18:26,16/02/2026 23:59
 f69e6bc7-ab2f-49e8-8ec1-5472529d1d85,streaming.baby,resell,88,24,9,"Spaceship, Inc.",25/06/2025 13:44,25/06/2026 23:59
@@ -522,7 +522,7 @@ d28c5942-855f-4efe-93c3-b0f29b273ae6,streaming.fans,premium,88,24,9,,,
 97fe4129-b706-49e2-b57c-1e59d2dcc064,streaming.fashion,available,88,24,9,,,
 3f6de04a-b7c6-4112-9d9b-afce14ee0a54,streaming.fast,premium,88,24,9,,,
 b66017ef-b8c6-430a-a8fc-8d0c9fcc1155,streaming.film,premium,88,24,9,,,
-b0efe403-2a31-4d72-8fe8-8d115ccba114,streaming.finance,expiring,88,24,9,Dynadot Inc,17/12/2022 07:11,17/12/2025 07:11
+b0efe403-2a31-4d72-8fe8-8d115ccba114,streaming.finance,sold,88,24,9,Dynadot Inc,17/12/2022 07:11,17/12/2026 07:11
 c0a0af11-aecf-4928-951d-8148ee7707d6,streaming.financial,available,88,24,9,,,
 b19af1df-af38-46aa-9111-e168d0ea716e,streaming.fish,available,88,24,9,,,
 d3b59804-d513-4e1b-b90f-65a312a8a52f,streaming.fishing,available,88,24,9,,,
@@ -552,7 +552,7 @@ e0256b58-fc33-493b-9ae7-1fb675b72634,streaming.giving,available,88,24,9,,,
 89f318f4-f77a-4b45-af32-ffe16314e5be,streaming.glass,available,88,24,9,,,
 2d0a3273-5703-4643-9b66-b96460c7e09c,streaming.gmbh,available,88,24,9,,,
 5a397602-2338-4dac-a37e-863e90bff459,streaming.gold,premium,88,24,9,,,
-ae6d72a2-4b86-421f-bcdc-44699598939e,streaming.golf,expired,88,24,9,"GoDaddy.com, LLC",05/10/2024 12:08,05/10/2025 12:08
+ae6d72a2-4b86-421f-bcdc-44699598939e,streaming.golf,premium,88,24,9,,,
 2bcba34b-1ba6-45a4-af01-22dc012920ea,streaming.graphics,available,88,24,9,,,
 57249d5b-d6d4-43b8-be2a-0646ef814331,streaming.gratis,resell,88,24,9,"GoDaddy.com, LLC",02/11/2016 18:26,02/11/2026 18:26
 8e4b2e46-6e09-4c44-bfa1-887a5f47d4e1,streaming.green,premium,88,24,9,,,
@@ -587,6 +587,7 @@ c286dc0c-f860-431b-8484-d991afc693c5,streaming.industries,available,88,24,9,,,
 cd0224f0-a524-4574-bf5a-c29310def438,streaming.international,sold,88,24,9,Dynadot Inc,18/09/2020 05:03,18/09/2026 05:03
 dabdb194-4b5f-4181-a49e-74406ce85500,streaming.investments,available,88,24,9,,,
 1358886a-0fb0-4ccb-89f7-0a0a2c41b812,streaming.irish,available,88,24,9,,,
+3315c083-e3fc-46a5-8233-7a3d9e056748,streaming.it,expiring,88,24,9,,20/01/2000 00:00,20/01/2026 00:00
 805b223a-8a52-469b-9584-167d1aed6c99,streaming.jewelry,available,88,24,9,,,
 b3979f75-121f-4fe5-931b-4316da6c16ff,streaming.juegos,available,88,24,9,,,
 129446ef-7745-4912-986a-7f760777e0e2,streaming.kaufen,available,88,24,9,,,
@@ -725,7 +726,7 @@ b22bde2b-c431-45be-b0dc-bde34f25d719,streaming.theatre,available,88,24,9,,,
 6cc9ba03-b5e1-42bf-ae35-bea6a742e51a,streaming.tires,available,88,24,9,,,
 202e7afc-e422-4325-8291-9fb71b938be9,streaming.to,resell,88,24,9,humbly LLC,14/11/2016 03:27,14/11/2026 03:27
 0c57a31e-4599-4c15-9dee-375fce9326ad,streaming.today,sold,88,24,9,"Global Domains International, Inc. DBA DomainCostClub.com",07/09/2025 15:15,07/09/2026 15:15
-ffb0ba34-fd52-4b7a-88b7-206d423bf9a7,streaming.top,sold,88,24,9,Dynadot LLC,16/01/2022 17:24,16/01/2026 17:24
+ffb0ba34-fd52-4b7a-88b7-206d423bf9a7,streaming.top,expiring,88,24,9,Dynadot LLC,16/01/2022 17:24,16/01/2026 17:24
 7646b47e-6d59-4410-99db-a9ab1371bc29,streaming.tours,expiring,88,24,9,"GoDaddy.com, LLC",09/01/2019 21:43,09/01/2026 21:43
 3102cfc4-89f7-46cc-a885-180b2ea0db7d,streaming.town,available,88,24,9,,,
 cdc1231a-ba9b-4e4a-a571-838bc3bf177c,streaming.toys,available,88,24,9,,,
@@ -756,7 +757,7 @@ b150f457-a749-45fd-a29d-b6985670538e,streaming.webcam,sold,88,24,9,"Sav.com, LLC
 0a6a8839-ff99-4991-9911-1243efcd46b9,streaming.win,premium,88,24,9,,,
 d2bd5c2f-5c87-4c1e-9991-1afa836fe3e5,streaming.works,sold,88,24,9,"Sav.com, LLC",21/01/2021 11:52,21/01/2026 11:52
 f1878649-9f6f-4f13-a300-48f0feed7725,streaming.world,resell,88,24,9,"Chengdu West Dimension Digital Technology Co., Ltd.",01/04/2018 07:58,01/04/2026 07:58
-a18c89d8-c94e-4291-93c5-64822d775ae8,streaming.wtf,expired,88,24,9,"Sav.com, LLC - 24",30/09/2024 17:00,30/09/2025 17:00
+a18c89d8-c94e-4291-93c5-64822d775ae8,streaming.wtf,premium,88,24,9,,,
 236a3ff8-cfa6-47df-93d1-b4f022623fee,streaming.xyz,sold,88,24,9,Dynadot LLC,02/06/2014 16:07,02/06/2027 23:59
 f773d4c5-c0e4-4bd6-8cfe-b3909eccb5f9,streaming.yachts,available,88,24,9,,,
 b7d71c2a-347e-4e4c-8128-a52750291f59,streaming.you,premium,88,24,9,,,
@@ -998,4 +999,3 @@ b8402b78-236b-4936-9798-93de7fdd3fb5,journalism.lighting,available,70,14,10,,,
 a3b5922f-7a97-42d0-8251-eca0bfaafb08,journalism.limited,available,70,14,10,,,
 b06c292d-25dc-40c9-b577-c5dc196ce119,journalism.limo,available,70,14,10,,,
 21ec105b-d720-43c7-8ed1-6f8f1168317a,journalism.link,premium,70,14,10,,,
-a9dfde5f-2015-4fec-b972-fd28fd420496,journalism.live,premium,70,14,10,,,
