@@ -1,10 +1,10 @@
-# Available .MEDIA One-Word Domains (9,369)
+# Available .MEDIA One-Word Domains (9,694)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C369%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C694%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .media one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,369 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,694 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,369 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,694 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/media`  
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | Keith.media       | available | $58.98    | —             | 66             | 25     | 5      | namecheap                                           |
 | box.media         | resell    | —         | —             | 68             | 79     | 3      | Porkbun LLC                                         |
 | William.media     | premium   | $69.30    | $138.60       | 74             | 31     | 7      | namecheap                                           |
-| holidays.media    | available | $7.99     | —             | 78             | 23     | 8      | name.com                                            |
+| plans.media       | available | $7.99     | —             | 60             | 20     | 5      | name.com                                            |
 | skills.media      | resell    | —         | —             | 58             | 47     | 6      | DNSPod, Inc.                                        |
 | has.media         | premium   | $140      | $280          | 60             | 26     | 3      | namecheap                                           |
-| plans.media       | available | $7.99     | —             | 60             | 20     | 5      | name.com                                            |
+| likes.media       | available | $7.99     | —             | 52             | 20     | 5      | name.com                                            |
 | lab.media         | resell    | —         | —             | 78             | 46     | 3      | Porkbun LLC                                         |
 | boats.media       | premium   | $140      | $280          | 52             | 24     | 5      | namecheap                                           |
-| likes.media       | available | $7.99     | —             | 52             | 20     | 5      | name.com                                            |
-| food.media        | resell    | —         | —             | 94             | 43     | 4      | Porkbun LLC                                         |
-| icons.media       | premium   | $69.30    | $138.60       | 68             | 19     | 5      | namecheap                                           |
 | mathematics.media | available | $7.99     | —             | 68             | 19     | 11     | name.com                                            |
-| realestate.media  | resell    | —         | —             | 77             | 42     | 11     | Dynadot Inc                                         |
+| food.media        | resell    | —         | —             | 94             | 43     | 4      | Porkbun LLC                                         |
 | vacations.media   | premium   | $69.30    | $138.60       | 56             | 19     | 9      | namecheap                                           |
 | orders.media      | available | $7.99     | —             | 60             | 19     | 6      | name.com                                            |
-| Tools.media       | resell    | —         | —             | 56             | 40     | 5      | DNSPod, Inc.                                        |
-| videogames.media  | premium   | $46.20    | $92.40        | 66             | 18     | 11     | namecheap                                           |
+| realestate.media  | resell    | —         | —             | 77             | 42     | 11     | Dynadot Inc                                         |
+| wonders.media     | premium   | $140      | $280          | 62             | 16     | 7      | namecheap                                           |
 | trucks.media      | available | $7.99     | —             | 55             | 19     | 6      | name.com                                            |
+| Tools.media       | resell    | —         | —             | 56             | 40     | 5      | DNSPod, Inc.                                        |
+| kicks.media       | premium   | $140      | $280          | 77             | 15     | 5      | namecheap                                           |
+| accounts.media    | available | $7.99     | —             | 54             | 19     | 8      | name.com                                            |
 | WiFi.media        | resell    | —         | —             | 83             | 37     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,369 live domains                               |
+| 1,000-row public sample | 9,694 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
