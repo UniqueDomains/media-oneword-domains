@@ -1,10 +1,10 @@
-# Available .MEDIA One-Word Domains (9,852)
+# Available .MEDIA One-Word Domains (9,863)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C852%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C863%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .media one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,852 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,863 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,852 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,863 domains · **Median ask:** $14.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/media`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | Keith.media         | available | $58.98    | —             | 66             | 25     | 5      | namecheap                                           |
-| box.media           | resell    | —         | —             | 68             | 79     | 3      | Porkbun LLC                                         |
+| box.media           | resell    | —         | —             | 68             | 77     | 3      | Porkbun LLC                                         |
 | William.media       | premium   | $69.30    | $138.60       | 74             | 31     | 7      | namecheap                                           |
 | plans.media         | available | $7.99     | —             | 60             | 20     | 5      | name.com                                            |
 | skills.media        | resell    | —         | —             | 58             | 47     | 6      | DNSPod, Inc.                                        |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,852 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 9,863 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is centered on one-word .media domains, which makes comparison straightforward. Some names are clean, broad terms like active.media or research.media. Others are more playful or narrow, such as nomnomnom.media or makelove.media. For founders, the main question is whether the word is memorable, easy to say, and strong enough to carry a media brand on its own. For investors, the key is whether the term has clear commercial relevance, obvious end-user fit, and realistic pricing. The median ask here is 14.01, so the biggest differences are usually in word quality, category fit, and potential trademark friction rather than headline price alone.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words with clear media, content, or publishing fit
+- Check if the term is memorable aloud and easy to spell
+- Exact-match keywords can be useful, but narrower in use
+- Avoid terms with obvious trademark or reputational risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
