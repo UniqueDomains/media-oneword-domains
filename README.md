@@ -1,10 +1,10 @@
-# Available .MEDIA One-Word Domains (9,879)
+# Available .MEDIA One-Word Domains (9,880)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C879%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C880%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .media one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,879 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,880 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,879 domains · **Median ask:** $14.00 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,880 domains · **Median ask:** $13.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/media`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/media`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MEDIA one-word domain
 
 ### Files
 
-- `media.csv` — public CSV extract (1,000 rows)
-- `media.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `media.csv`, public CSV extract (1,000 rows)
+- `media.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| Keith.media         | available | $58.98    | —             | 66             | 25     | 5      | namecheap                                           |
-| box.media           | resell    | —         | —             | 68             | 77     | 3      | Porkbun LLC                                         |
-| William.media       | premium   | $69.30    | $138.60       | 74             | 31     | 7      | namecheap                                           |
-| plans.media         | available | $7.99     | —             | 60             | 21     | 5      | name.com                                            |
-| skills.media        | resell    | —         | —             | 58             | 47     | 6      | DNSPod, Inc.                                        |
-| has.media           | premium   | $140      | $280          | 60             | 26     | 3      | namecheap                                           |
-| likes.media         | available | $7.99     | —             | 52             | 20     | 5      | name.com                                            |
-| lab.media           | resell    | —         | —             | 78             | 46     | 3      | Porkbun LLC                                         |
-| boats.media         | premium   | $140      | $280          | 52             | 24     | 5      | namecheap                                           |
-| mathematics.media   | available | $7.99     | —             | 68             | 19     | 11     | name.com                                            |
-| food.media          | resell    | —         | —             | 94             | 44     | 4      | Porkbun LLC                                         |
-| vacations.media     | premium   | $69.30    | $138.60       | 56             | 19     | 9      | namecheap                                           |
-| orders.media        | available | $7.99     | —             | 60             | 19     | 6      | name.com                                            |
-| realestate.media    | resell    | —         | —             | 77             | 44     | 11     | Dynadot Inc                                         |
-| kicks.media         | premium   | $140      | $280          | 77             | 15     | 5      | namecheap                                           |
-| trucks.media        | available | $7.99     | —             | 55             | 19     | 6      | name.com                                            |
-| Tools.media         | resell    | —         | —             | 56             | 40     | 5      | DNSPod, Inc.                                        |
-| relationships.media | premium   | $69.30    | $138.60       | 48             | 12     | 13     | namecheap                                           |
-| accounts.media      | available | $7.99     | —             | 54             | 19     | 8      | name.com                                            |
-| WiFi.media          | resell    | —         | —             | 83             | 37     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| atop.media | available | $7.99     | —             | medium         | low    | 4      | name.com                                            |
+| add.media  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
+| ane.media  | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                           |
+| avon.media | available | $7.99     | —             | high           | low    | 4      | name.com                                            |
+| gym.media  | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                          |
+| BJP.media  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                           |
+| bore.media | available | $7.99     | $60.99        | high           | low    | 4      | name.com                                            |
+| man.media  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                     |
+| cot.media  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                           |
+| cock.media | available | $7.99     | —             | medium         | low    | 4      | name.com                                            |
+| the.media  | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                           |
+| cup.media  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| guts.media | available | $7.99     | —             | high           | low    | 4      | name.com                                            |
+| acre.media | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 19                                   |
+| dad.media  | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                           |
+| Leia.media | available | $7.99     | —             | high           | low    | 4      | name.com                                            |
+| bass.media | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                        |
+| dye.media  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                           |
+| lend.media | available | $7.99     | —             | high           | low    | 4      | name.com                                            |
+| born.media | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,879 live domains                         |
+| 1,000-row public sample | 9,880 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is centered on one-word .media domains, which makes comparison straightforward. Some names are clean, broad terms like active.media or research.media. Others are more playful or narrow, such as nomnomnom.media or makelove.media. For founders, the main question is whether the word is memorable, easy to say, and strong enough to carry a media brand on its own. For investors, the key is whether the term has clear commercial relevance, obvious end-user fit, and realistic pricing. The median ask here is 14.01, so the biggest differences are usually in word quality, category fit, and potential trademark friction rather than headline price alone.
+This .media selection spans 9,880 domain names, from single dictionary words to short compound phrases like chaitea.media, cuddleup.media, and dogsledmail.media. Most names carry a median ask near $13, positioning this TLD as a low-cost entry point for media, content, and storytelling brands. Names range from literal (destination.media, road.media) to playful (getlucky.media, stirup.media), giving both investors and founders a wide base to compare pricing, renewal cost, and brandability before settling on a name.
 
-- Prioritize words with clear media, content, or publishing fit
-- Check if the term is memorable aloud and easy to spell
-- Exact-match keywords can be useful, but narrower in use
-- Avoid terms with obvious trademark or reputational risk
+- 9,880 one-word .media domain names in this selection
+- Median ask near $13 across the set
+- Mix of literal, playful, and compound one-word names
+- Ideal for media, content, and storytelling brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
