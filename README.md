@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .media one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,174 domains · **Median ask:** $10.27 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/media`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| alky.media | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                           |
-| add.media  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
-| ane.media  | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                           |
-| atop.media | available | $7.99     | —             | medium         | low    | 4      | name.com                                            |
-| gym.media  | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                          |
-| BJP.media  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                           |
-| auld.media | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                           |
-| man.media  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                     |
-| bum.media  | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap                                           |
-| avon.media | available | $7.99     | —             | high           | low    | 4      | name.com                                            |
-| the.media  | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                           |
-| clv.media  | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                                           |
-| bald.media | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                           |
-| acre.media | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 19                                   |
-| cot.media  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                           |
-| bore.media | available | $7.99     | $60.99        | high           | low    | 4      | name.com                                            |
-| bass.media | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                        |
-| cup.media  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
-| buns.media | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                           |
-| born.media | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| special.media | premium   | $69.30    | $138.60       | high           | low    | 7      | namecheap                  |
+| alky.media    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                  |
+| add.media     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                |
+| ane.media     | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                  |
+| atop.media    | available | $7.99     | —             | medium         | low    | 4      | name.com                   |
+| gym.media     | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC |
+| BJP.media     | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                  |
+| auld.media    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                  |
+| man.media     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.            |
+| bum.media     | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap                  |
+| avon.media    | available | $7.99     | —             | high           | low    | 4      | name.com                   |
+| the.media     | resell    | —         | —             | high           | medium | 3      | 1API GmbH                  |
+| clv.media     | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                  |
+| bald.media    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                  |
+| acre.media    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 19          |
+| cot.media     | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| bore.media    | available | $7.99     | $60.99        | high           | low    | 4      | name.com                   |
+| bass.media    | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.               |
+| cup.media     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                  |
+| buns.media    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
