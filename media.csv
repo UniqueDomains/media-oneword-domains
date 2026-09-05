@@ -6,7 +6,7 @@ c1ee4132-f5c7-4312-8a72-726f415beb27,megeneration.media,available,7.99,,medium,l
 af9ed737-7f10-4e9d-8afd-234367d2194f,towheaded.media,available,5.98,58.98,low,low,9,namecheap,,
 e92361e7-f349-4f83-bf85-9075cfedaec2,attender.media,available,5.98,58.98,low,low,8,namecheap,,
 3412a987-a13c-448e-89fa-0d561060ac06,towards.media,available,7.99,,high,low,7,name.com,,
-d26cdd40-8a7c-429e-a30a-26e7f9b691e5,jumping.media,available,7.99,,high,low,7,name.com,,
+d26cdd40-8a7c-429e-a30a-26e7f9b691e5,jumping.media,available,5.98,58.98,low,low,7,namecheap,,
 bc737a76-8a90-417a-be3d-25a8d5b06305,BigFour.media,available,7.99,,medium,low,8,name.com,,
 f791ef69-e43d-4eea-b061-bd2edf8ec400,jamesbond.media,available,7.99,,high,low,10,name.com,,
 977a25a3-9f4a-4049-b125-2f501e3b30bc,everybody.media,resell,,,medium,low,10,"GoDaddy.com, LLC",25/01/2015 00:42,25/01/2030 00:42
@@ -252,7 +252,7 @@ d5ea43b9-65b5-4c28-8bc0-d75dfa0d6dd9,spry.media,available,5.98,58.98,low,low,4,n
 cf42a4c4-2a36-4877-a2bf-f4f2e1d349a0,hardworking.media,available,7.99,,high,low,11,name.com,,
 2b4cac7e-6d96-416e-a8a7-8187fab9cbe2,alienating.media,available,5.98,58.98,low,low,10,namecheap,,
 cc6a566a-f73c-47e7-b143-a77df48b5dad,naturewriting.media,available,7.99,,low,low,14,name.com,,
-b1f6ee69-bf3b-4b57-b3fb-1ed4a8c47cfb,oldtimer.media,available,7.99,,high,low,9,name.com,,
+b1f6ee69-bf3b-4b57-b3fb-1ed4a8c47cfb,oldtimer.media,available,5.98,58.98,medium,low,9,namecheap,,
 dce03da3-d163-44ae-8263-07d26e94eebf,committee.media,available,,,medium,low,9,,,
 46843d34-baf7-4297-bc03-58f80c8aac07,perforation.media,available,7.99,,low,low,11,name.com,,
 b82479b1-0b72-458f-a120-08c8cb8fd8f9,quatern.media,available,5.98,58.98,low,low,7,namecheap,,
@@ -287,7 +287,7 @@ e1410a93-61c0-49ac-bf1c-9f5a210fe91f,xxvii.media,available,5.98,58.98,low,low,5,
 4ea3a8f9-ae64-47d0-9eb2-76eeff72d770,lordly.media,available,5.98,58.98,low,low,6,namecheap,,
 590ea870-987c-4673-a130-4bab3ac6bed9,texas.media,resell,,,medium,medium,5,"GoDaddy.com, LLC",28/10/2021 02:35,28/10/2026 02:35
 54b9d8bb-1ed1-4c75-bcc5-25c846738244,tourist.media,resell,,,high,low,7,"Sav.com, LLC - 24",27/03/2025 15:15,27/03/2027 15:15
-e3e55510-c7db-480c-b5a3-1eb64a387ad6,natural.media,resell,,,high,low,7,"NameSilo, LLC",14/12/2018 22:36,14/12/2026 22:36
+e3e55510-c7db-480c-b5a3-1eb64a387ad6,natural.media,resell,,,medium,low,7,"NameSilo, LLC",14/12/2018 22:36,14/12/2026 22:36
 c60a1f3a-b3c4-42a2-99e3-4164247e933a,banging.media,available,5.98,58.98,low,low,7,namecheap,,
 e9d88e52-7342-4e7b-89e4-56b7253bf74e,childofthekitchen.media,available,7.99,,medium,low,20,name.com,,
 399b97ea-8fbc-457c-ae12-62de818c3ad1,antitrust.media,available,5.98,58.98,low,low,9,namecheap,,
@@ -379,7 +379,7 @@ d6866daf-3ebd-4df3-9c6e-0efe434a96af,packing.media,available,7.99,,high,low,7,na
 dc5b5f6f-af9b-4476-9c96-ba485bd5aaf2,outback.media,available,7.99,,high,low,7,name.com,,
 fd6f8252-b239-4edd-acae-ca8bd51216ca,nationalconvention.media,available,7.99,,medium,low,19,name.com,,
 f772a689-0237-4ee3-ba22-f9c90a2f8c23,amoebous.media,available,5.98,58.98,low,low,8,namecheap,,
-cd340965-38e6-4a54-a828-a3fe72bc430e,design.media,resell,,,high,medium,6,"Sav.com, LLC",18/06/2015 03:35,18/06/2026 03:35
+cd340965-38e6-4a54-a828-a3fe72bc430e,design.media,resell,,,medium,medium,6,"Spaceship, Inc.",18/06/2015 03:35,18/06/2027 03:35
 33da3746-bbb2-472e-b5a8-d17f89b881e1,awned.media,available,5.98,58.98,low,low,5,namecheap,,
 3c2a5b25-0a4b-4246-948c-6eb4e5998220,Nutella.media,available,,,high,low,7,,,
 cb09e04e-a04a-4914-92ae-6b246fed4edb,aciduric.media,available,5.98,58.98,low,low,8,namecheap,,
@@ -437,7 +437,7 @@ c5ffa780-7501-48c9-a4c7-5b50eecc479c,nashville.media,resell,,,high,low,9,"GoDadd
 c7a874da-86e0-44d8-8a0a-02ff895068a0,auld.media,available,5.98,58.98,low,low,4,namecheap,,
 c0b33b02-48c8-4096-9f42-adb7f0ab0417,detestable.media,available,5.98,58.98,low,low,10,namecheap,,
 0f650ad1-c725-40e5-8b43-103158a45b96,pesky.media,available,5.98,58.98,low,low,5,namecheap,,
-6d3ab878-4aca-426e-b528-e2512f688f15,coordinate.media,available,7.99,60.99,high,low,10,name.com,,
+6d3ab878-4aca-426e-b528-e2512f688f15,coordinate.media,available,5.98,58.98,medium,low,10,namecheap,,
 d1e834a3-9fc3-4051-b479-18597f9bc932,mouthcare.media,available,7.99,,low,low,9,name.com,,
 a066eba0-524c-403a-b6ad-223b1bfbc769,guts.media,available,7.99,,high,low,4,name.com,,
 bc5b526a-1ae6-4e9b-96f8-642fb5c9efae,unbearable.media,available,7.99,,medium,low,10,name.com,,
@@ -751,7 +751,7 @@ db63712b-a364-41cd-ba27-7d10aee43a35,obtain.media,available,7.99,,high,low,6,nam
 0cd4b561-dca2-4cc1-b14e-13e3c2769063,motherfukkah.media,available,7.99,,medium,low,12,name.com,,
 365484e0-1606-489a-bab1-336b7273d69a,makeright.media,available,7.99,,high,low,10,name.com,,
 32532b04-9fc5-46af-a0a9-5e5ce648a5ef,auspicious.media,available,7.99,,high,low,10,name.com,,
-ef42ebd7-f111-4074-bcd7-85671b750f2c,pyramid.media,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/11/2022 15:15,21/11/2026 15:15
+ef42ebd7-f111-4074-bcd7-85671b750f2c,pyramid.media,resell,,,medium,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/11/2022 15:15,21/11/2026 15:15
 22328fbc-cde9-4c24-a5cd-1c0343c42dcd,channukkah.media,available,7.99,,medium,low,10,name.com,,
 78f082f9-808e-4ceb-a9b3-2c954eacaf21,wedge.media,available,7.99,,medium,low,5,name.com,,
 418b1dfb-9b30-47f5-8a90-36247b905bb2,teastrainer.media,available,7.99,,high,low,12,name.com,,
@@ -991,7 +991,6 @@ e86b16f2-1e5e-4250-a67a-0503cf595be7,findout.media,available,,,high,low,8,,,
 3d61e137-56b4-4a56-b091-faf4ee520448,cognizant.media,available,5.98,58.98,low,low,9,namecheap,,
 bdacbce8-898f-4268-a867-cdce728a2064,antrorse.media,available,5.98,58.98,low,low,8,namecheap,,
 43514c27-fb5a-452d-9623-44296047a4e7,antennary.media,available,5.98,58.98,low,low,9,namecheap,,
-25349c4b-404d-4f3d-9bf1-1a4e98501d00,unit.media,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",01/10/2020 01:37,01/10/2026 01:37
 120d1185-ef66-46d8-9d98-5d3d061c4065,mothafucker.media,available,7.99,,medium,low,11,name.com,,
 a418d9a2-deba-4933-a05e-7ed1e63d5b5c,envisioned.media,available,7.99,,high,low,10,name.com,,
 09f3d35e-d46a-47e2-95bb-6cae38b01e21,signin.media,available,7.99,,high,low,7,name.com,,
@@ -999,3 +998,4 @@ c202e144-d19f-4409-8311-7e38753aab9a,overhead.media,available,7.99,,high,low,8,n
 5bff7b15-766d-4c1e-9b79-9e1ef0de8abc,pearlwhite.media,available,7.99,,low,low,11,name.com,,
 fafe9043-2631-4985-ac75-ad4f578271e8,slobabout.media,available,7.99,,low,low,10,name.com,,
 96d0e017-6ff3-493b-8947-d3c6bb9487b8,giveblood.media,available,7.99,,high,low,10,name.com,,
+49202e68-80b7-45d0-af4f-ed2461ad55a3,cherry.media,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",25/07/2018 16:17,25/07/2026 16:17
