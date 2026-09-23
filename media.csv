@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d6c3a91-39f7-4c3f-aecb-5172fb029f11,underarrest.media,available,7.99,,medium,low,12,name.com,,,
 9888816e-96d3-4e64-b64f-260a8381d8c4,absolved.media,available,5.98,58.98,low,low,8,namecheap,,,
 c1ee4132-f5c7-4312-8a72-726f415beb27,megeneration.media,available,7.99,,medium,low,13,name.com,,,
-282b5b3c-e38b-4f8a-a389-85c4707f0a2e,blond.media,available,7.99,,medium,low,5,name.com,,,
+282b5b3c-e38b-4f8a-a389-85c4707f0a2e,blond.media,available,5.98,58.98,low,low,5,namecheap,,,22/09/2026 22:15
 af9ed737-7f10-4e9d-8afd-234367d2194f,towheaded.media,available,5.98,58.98,low,low,9,namecheap,,,07/08/2026 01:49
 e92361e7-f349-4f83-bf85-9075cfedaec2,attender.media,available,5.98,58.98,low,low,8,namecheap,,,07/08/2026 15:17
 3412a987-a13c-448e-89fa-0d561060ac06,towards.media,available,7.99,,high,low,7,name.com,,,
@@ -10,7 +10,6 @@ d26cdd40-8a7c-429e-a30a-26e7f9b691e5,jumping.media,available,5.98,58.98,medium,l
 bc737a76-8a90-417a-be3d-25a8d5b06305,bigfour.media,available,7.99,,medium,low,8,name.com,,,
 f791ef69-e43d-4eea-b061-bd2edf8ec400,jamesbond.media,available,7.99,,high,low,10,name.com,,,
 977a25a3-9f4a-4049-b125-2f501e3b30bc,everybody.media,resell,,,medium,low,10,"GoDaddy.com, LLC",25/01/2015 00:42,25/01/2030 00:42,
-05b73ac6-f7a8-466a-9446-f7c989df91bf,defense.media,resell,,,medium,low,7,Porkbun LLC,12/08/2014 04:50,12/08/2026 04:50,
 eb018d7a-4e9f-4100-ad37-c64834f49143,frenchonionsoup.media,available,7.99,,high,low,17,name.com,,,
 9381a737-7f70-451e-b6e5-c9ebf27610a8,giveamanafish.media,available,7.99,,medium,low,17,name.com,,,
 8ae4f490-f49b-4013-a753-ecf0eaa8d848,amidships.media,available,5.98,58.98,low,low,9,namecheap,,,
@@ -52,13 +51,13 @@ a7ccbecd-b828-4850-aa5b-7c7f17153f8b,hindermost.media,available,5.98,58.98,low,l
 c9565a3f-bf93-4a4a-9294-8b3cc1c2031c,conveyable.media,available,5.98,58.98,low,low,10,namecheap,,,07/08/2026 06:24
 f538ab43-eb1f-42aa-bc5e-89a20d91ea26,volume.media,resell,,,high,low,6,Porkbun LLC,27/02/2022 13:15,27/02/2027 13:15,
 17772fb7-f3a8-47b8-80d4-30d0d18aceaf,obese.media,available,7.99,60.99,high,low,5,name.com,,,
-14fa9ce3-88e1-4a51-a620-1f5b2889a170,prenatal.media,available,7.99,,high,low,8,name.com,,,
+14fa9ce3-88e1-4a51-a620-1f5b2889a170,prenatal.media,available,11.99,44.99,medium,low,8,namesilo,,,22/09/2026 05:55
 da3f6a4c-496b-4b57-a15b-b7a2556d2cf7,bastardly.media,available,5.98,58.98,low,low,9,namecheap,,,08/08/2026 23:53
 83b113b6-5a4c-44f7-b542-0ce9d5e237a1,restrict.media,available,11.99,44.99,low,low,8,namesilo,,,19/09/2026 17:10
 b3988833-2c5b-4a45-a224-e5035918cd56,detecting.media,available,7.99,,medium,low,9,name.com,,,
 8970c355-f5e1-4144-8aa5-6fe750fcd9b1,aquaphobic.media,available,5.98,58.98,low,low,10,namecheap,,,06/08/2026 10:40
 d7f5e34f-7cc1-4e13-94eb-8128c8c257a2,pubichair.media,available,7.99,,low,low,10,name.com,,,
-adb00805-76fa-457b-bff7-8da3c8c6bfdc,abiding.media,available,7.99,60.99,high,low,7,name.com,,,
+adb00805-76fa-457b-bff7-8da3c8c6bfdc,abiding.media,available,11.99,44.99,medium,low,7,namesilo,,,21/09/2026 13:52
 f0422eaa-709a-4039-8f59-9e2767385d05,legislative.media,available,7.99,,high,low,11,name.com,,,
 d869e947-ee27-4f6f-bc34-933f14a1d396,aryan.media,resell,,,high,low,5,Porkbun LLC,04/01/2023 11:44,04/01/2026 11:44,
 405cc9e3-e7ca-404d-97de-3448fbd03938,acuminate.media,available,5.98,58.98,low,low,9,namecheap,,,
@@ -72,7 +71,7 @@ dcbe29d6-9aa6-4158-be0d-61d2f7f64c5c,province.media,available,7.99,,medium,low,8
 ec312dbb-77f9-4635-906e-544b4b79c786,turn.media,resell,,,high,low,4,"DNSPod, Inc.",22/01/2025 15:15,22/01/2027 15:15,
 855790d9-7a3f-4636-bc77-f7a63b9a13ad,banausic.media,available,5.98,58.98,low,low,8,namecheap,,,08/08/2026 11:29
 c8c92a44-5383-48d6-a593-01171fd3d3ee,give.media,resell,,,high,low,4,"GoDaddy.com, LLC",06/09/2024 17:00,06/09/2026 17:00,
-65ee385d-c817-4a86-9c9d-5ed46d811b63,asthmatic.media,available,7.99,,medium,low,9,name.com,,,
+65ee385d-c817-4a86-9c9d-5ed46d811b63,asthmatic.media,available,11.99,44.99,low,low,9,namesilo,,,22/09/2026 10:23
 b9970736-6e28-4d53-9bdd-4b63cb1b9b0d,clap.media,resell,,,high,low,4,"DNSPod, Inc.",25/10/2024 15:15,25/10/2026 15:15,
 0762c8bc-5032-46e1-83fd-e7bdcd19448f,lxxv.media,available,5.98,58.98,low,low,4,namecheap,,,
 ef5f3af6-fd0a-4018-b445-1028e4b0dc88,ascosporic.media,available,5.98,58.98,low,low,10,namecheap,,,07/08/2026 01:12
@@ -81,7 +80,6 @@ ef5f3af6-fd0a-4018-b445-1028e4b0dc88,ascosporic.media,available,5.98,58.98,low,l
 eb19f789-48c0-4e48-8745-d7cf0dd1a482,clxv.media,available,5.98,58.98,low,low,4,namecheap,,,
 6eab549a-3924-4256-9b09-d9a253994b9f,suck.media,available,7.99,,high,low,4,name.com,,,
 76d6db08-683d-445d-b193-f1c3ff13ffed,fewer.media,available,7.99,,medium,low,5,name.com,,,
-08237e94-be9f-4459-b63a-f7f36020aa63,alternate.media,available,7.99,60.99,high,low,9,name.com,,,
 933994c3-cb0a-4dd7-ada9-5a1d616120c2,anagogic.media,available,5.98,58.98,low,low,8,namecheap,,,
 4a0aafbf-7907-439d-9196-6206da22bde6,revelatory.media,available,5.98,58.98,low,low,10,namecheap,,,06/08/2026 00:55
 53fb34bc-de0a-41d8-bfad-0eaf13d1b5c9,judges.media,available,7.99,,medium,low,6,name.com,,,
@@ -89,14 +87,13 @@ f6ceed24-260a-47c2-ba92-c41c4e709623,suit.media,available,7.99,,high,low,4,name.
 68d144a3-d166-4fd6-82e0-428f6f251f5d,travel.media,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/06/2015 16:55,14/06/2026 16:55,
 c229fc31-68bd-46b9-9aa8-579b94481761,pattycase.media,available,7.99,,medium,low,10,name.com,,,
 ed2e616b-e481-48fa-b019-7197fa7650fc,alveolate.media,available,5.98,58.98,low,low,9,namecheap,,,
-4c68f9e0-ff5b-4d97-a982-ad71710450fe,autumn.media,resell,,,medium,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",16/08/2024 17:00,16/08/2026 17:00,
+4c68f9e0-ff5b-4d97-a982-ad71710450fe,autumn.media,resell,,,medium,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",16/08/2024 17:00,16/08/2027 17:00,20/09/2026 23:20
 de67225d-bda8-4b5a-859a-0ae91fdf7b8e,camouflage.media,available,7.99,,high,low,10,name.com,,,
 c94b05e3-0022-41be-81bf-e8c6a5d1f360,place.media,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",12/09/2020 08:41,12/09/2026 08:41,
 feb09f21-7db1-47af-a863-2064dd97d13b,anguished.media,available,5.98,58.98,low,low,9,namecheap,,,
 edceac5e-30db-4789-8c8c-afb48714044b,barter.media,resell,,,medium,low,6,"DNSPod, Inc.",12/04/2024 15:16,12/04/2027 15:16,
 09ab9ae6-847b-448a-91b9-6059554b597c,berried.media,available,5.98,58.98,low,low,7,namecheap,,,08/08/2026 04:45
 21dba4e0-4dd0-4147-93f2-a35090de98c2,bornyesterday.media,available,7.99,,medium,low,14,name.com,,,
-2d5cdea0-fb91-4f3c-8b5d-0d709c994982,select.media,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",03/09/2019 00:02,03/09/2026 00:02,
 c9209e03-1944-4487-9323-94b840bd082f,assuring.media,available,5.98,58.98,low,low,8,namecheap,,,07/08/2026 08:31
 e5d2a4f2-0c18-48f8-8166-473a5d19386c,idolized.media,available,5.98,58.98,low,low,8,namecheap,,,
 90b85471-293e-4ce5-bae5-dc9163f3a908,parody.media,available,7.99,,high,low,6,name.com,,,
@@ -116,7 +113,7 @@ b29d7f7f-c49a-43d1-977f-fcc3dfb4e5ee,woodsy.media,available,5.98,58.98,low,low,6
 871d3db5-4b39-478d-8773-0f5340585a7c,forgetting.media,available,7.99,,high,low,10,name.com,,,
 84ee7d65-3b7e-4baf-b5b1-2922673ccaa2,conducting.media,available,7.99,,medium,low,10,name.com,,,
 bc1b6711-7b8b-418f-9209-4ccb030d1530,algoid.media,available,5.98,58.98,low,low,6,namecheap,,,
-97d88ee7-085f-4a2c-89b6-654c4e0eceaf,attended.media,available,7.99,,medium,low,8,name.com,,,
+97d88ee7-085f-4a2c-89b6-654c4e0eceaf,attended.media,available,11.99,44.99,low,low,8,namesilo,,,22/09/2026 11:17
 160e4605-48d5-4b6b-8d6a-ee43d103b3b4,bahrain.media,available,,,medium,low,7,,,,
 edc03c1c-938a-4f15-bc19-570bddac696a,howdoyoulike.media,available,7.99,,medium,low,15,name.com,,,
 00dcd2ec-99dc-4b4a-a943-803b86e9a53c,enlighten.media,resell,,,high,low,9,"Global Domains International, Inc. DBA DomainCostClub.com",29/03/2026 15:15,29/03/2027 15:15,
@@ -129,7 +126,7 @@ f47ac765-270c-44d1-a6a1-bcdbf0efc462,awing.media,available,5.98,58.98,low,low,5,
 c6588092-b481-42ad-af03-eea10bbf0a88,lettersize.media,available,7.99,,medium,low,11,name.com,,,
 7b616100-8fa5-4ddb-9159-250c16763835,distinction.media,available,7.99,,high,low,11,name.com,,,
 99b992d2-1031-43ae-bc95-ed361c1942c2,affixal.media,available,5.98,58.98,low,low,7,namecheap,,,
-af44aa64-d494-402b-9c26-aaa998a4a0a2,acknowledged.media,available,7.99,,medium,low,12,name.com,,,
+af44aa64-d494-402b-9c26-aaa998a4a0a2,acknowledged.media,available,7.99,,low,low,12,name.com,,,
 1200678f-327f-45ec-9e16-01177bccbf65,heedful.media,available,5.98,58.98,low,low,7,namecheap,,,
 7178364a-667e-4a2b-a79e-d13d8a4450a4,oilpainting.media,available,7.99,,medium,low,12,name.com,,,
 49785b84-94e0-4bd5-bbbd-d8cae2b34d22,saveas.media,available,7.99,,medium,low,7,name.com,,,
@@ -157,7 +154,7 @@ b1a73f7e-eed1-4d05-9639-b8f4c45b9d19,justiceofthepeace.media,available,7.99,,med
 66260384-cd4b-420b-bee3-42937a8b1105,ripe.media,resell,,,medium,low,4,"DNSPod, Inc.",13/11/2024 17:00,13/11/2026 17:00,
 e9910e3f-6f28-4b20-b4d8-4199e3cc9ee0,tyrannical.media,available,5.98,58.98,low,low,10,namecheap,,,07/08/2026 19:12
 4a34946c-0f25-45f7-ba76-864687a38e8a,insurance.media,resell,,,high,medium,9,"Sav.com, LLC",20/07/2014 21:32,20/07/2027 21:32,19/09/2026 15:18
-d5d4c842-757e-4ca8-86c1-9bb0fd3770f8,answering.media,available,7.99,,high,low,9,name.com,,,
+d5d4c842-757e-4ca8-86c1-9bb0fd3770f8,answering.media,available,11.99,44.99,medium,low,9,namesilo,,,22/09/2026 05:38
 dcef81d5-d92c-4b15-8cdc-74abb6789fa1,beggarly.media,available,5.98,58.98,low,low,8,namecheap,,,09/08/2026 09:01
 5dfecb80-2268-444d-83f0-1e487dd942a8,teeth.media,available,7.99,,high,low,5,name.com,,,
 878c81e4-3f5a-47f2-a8dd-3a22974588fc,suckit.media,available,7.99,,medium,low,7,name.com,,,
@@ -166,8 +163,7 @@ dcef81d5-d92c-4b15-8cdc-74abb6789fa1,beggarly.media,available,5.98,58.98,low,low
 36a90002-c35e-416f-850f-1165904c36e2,stan.media,resell,,,high,low,4,"Sav.com, LLC - 36",14/11/2025 15:15,14/11/2026 15:15,
 4e1b4a2a-64af-4c52-9cd8-d882c951cc3c,affiliated.media,available,5.98,58.98,low,low,10,namecheap,,,
 fef67472-434a-4c9a-8f15-ab3eeb35db2e,buns.media,available,5.98,58.98,low,low,4,namecheap,,,09/08/2026 10:54
-cda34b6c-f1cc-4560-a7b1-12e90bfce028,link.media,resell,,,medium,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/06/2015 16:00,17/06/2027 16:00,
-6035c445-5308-4f23-a8dd-39656e022a7c,clown.media,available,7.99,,high,low,5,name.com,,,
+cda34b6c-f1cc-4560-a7b1-12e90bfce028,link.media,resell,,,low,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/06/2015 16:00,17/06/2027 16:00,22/09/2026 10:11
 eb4c1e9f-b13f-46fd-9fbf-564d7ae709c9,teddybear.media,available,7.99,,high,low,10,name.com,,,
 b59f57ee-fd0c-483e-97f7-1384c81e528f,greg.media,resell,,,medium,low,4,"Sav.com, LLC - 4",01/12/2025 15:15,01/12/2026 15:15,
 e6da5caf-50c2-4d67-ba12-01b8007d09eb,broached.media,available,5.98,58.98,low,low,8,namecheap,,,
@@ -181,7 +177,7 @@ d8665e76-1a4a-4583-b297-1cb936cbe601,person.media,resell,,,high,low,6,"DNSPod, I
 75fae88a-7ac4-4040-8b35-de7c809f88bf,various.media,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",03/09/2025 15:15,03/09/2026 15:15,
 50ffca91-1397-4da9-8a11-3dd47fdd275a,special.media,premium,69.3,138.6,high,low,7,namecheap,,,
 4511e76d-27dd-4f65-ab0c-739d9895c969,wording.media,available,7.99,,high,low,7,name.com,,,
-aa63a85c-c7ac-479a-bf08-aa67ca8e0d13,abovenamed.media,available,7.99,,medium,low,11,name.com,,,
+aa63a85c-c7ac-479a-bf08-aa67ca8e0d13,abovenamed.media,available,7.99,,low,low,11,name.com,,,
 e0f3aa03-053d-460c-b95c-2db0a235d28d,solicit.media,available,7.99,,high,low,7,name.com,,,
 7701ce0d-0e48-4f07-bccf-2f2588481906,tvset.media,available,7.99,,high,low,6,name.com,,,
 2c736611-6a76-4936-9830-6954b743d07b,putterabout.media,available,7.99,,low,low,12,name.com,,,
@@ -189,7 +185,7 @@ adb3e440-0c37-43f5-a474-6019fdeffeae,seasonably.media,available,5.98,58.98,low,l
 9cb8ec6f-0bbe-406e-aea1-1ab8c0595040,coldwar.media,available,7.99,,medium,low,8,name.com,,,
 36e7d4b1-a692-468d-9878-848548a22cba,defined.media,available,7.99,60.99,medium,low,7,name.com,,,
 3a6515e6-ae2d-4e34-890a-dcbb5476bf2c,wander.media,resell,,,medium,low,6,"Sav.com, LLC",17/06/2025 17:00,17/06/2026 17:00,
-7906a573-c3a4-48b3-a4db-c3e821dc8f73,whiz.media,premium,123.75,123.75,high,low,4,name.com,,,
+7906a573-c3a4-48b3-a4db-c3e821dc8f73,whiz.media,premium,64.35,128.7,medium,low,4,namecheap,,,21/09/2026 18:01
 0bd7a27b-fe92-436e-b783-f51d5bfbb422,giveout.media,available,7.99,,medium,low,8,name.com,,,
 220b4c57-3672-4007-865c-dcd1079cec88,pig.media,premium,140,280,high,low,3,namecheap,,,
 28acbe29-1494-4e6c-9fe1-72de641a7444,obtuse.media,available,7.99,60.99,high,low,6,name.com,,,
@@ -206,10 +202,10 @@ bfac5453-c04f-4c09-a662-88412918790f,rootabout.media,available,7.99,,low,low,10,
 04343183-1cdf-4abe-b0da-89abb5fefa39,ohio.media,premium,69.3,138.6,high,low,4,namecheap,,,
 4b309990-f1b9-4942-89e9-f977452f541f,californiakilowatt.media,available,7.99,,high,low,19,name.com,,,
 0d875f01-e8d9-40a2-a124-f2a60bdb5e45,musicgame.media,available,7.99,,high,low,10,name.com,,,
-603629f7-d93c-4c30-b859-77e4cdf515b6,damned.media,available,7.99,,medium,low,6,name.com,,,
+603629f7-d93c-4c30-b859-77e4cdf515b6,damned.media,available,11.99,44.99,low,low,6,namesilo,,,22/09/2026 21:41
 41fbb03e-3fc2-4972-8ef4-6c5a7988e1e0,angulate.media,available,5.98,58.98,low,low,8,namecheap,,,
 77c85f78-db1f-4378-884e-9ae98728379a,gymnastic.media,available,5.98,58.98,low,low,9,namecheap,,,
-2b65c4b5-0e60-4e1b-996f-c27544a29371,alphabetic.media,available,7.99,60.99,medium,low,10,name.com,,,
+2b65c4b5-0e60-4e1b-996f-c27544a29371,alphabetic.media,available,11.99,44.99,low,low,10,namesilo,,,22/09/2026 02:10
 58b531c0-e0ea-4823-9ad0-3729f8c525e1,exculpated.media,available,5.98,58.98,low,low,10,namecheap,,,
 943782fb-3088-4e6e-9659-d354050931a9,beads.media,available,7.99,,high,low,5,name.com,,,
 f7edbae7-cf20-4d99-be15-6da6a53db7b4,competing.media,available,7.99,,medium,low,9,name.com,,,
@@ -225,20 +221,21 @@ f1b7fb49-fad4-48ec-98de-e9ad57b01149,hivvirus.media,available,7.99,,medium,low,9
 4e45863a-016d-4889-afa2-110e579e399a,tipped.media,available,5.98,58.98,low,low,6,namecheap,,,07/08/2026 13:33
 2f197e0b-6bb7-43d5-a565-06b8417e61ae,springshower.media,available,7.99,,low,low,13,name.com,,,
 a77b63d0-7a16-4baf-90f1-483e79c3fd3e,choose.media,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",09/01/2021 18:09,09/01/2027 18:09,
-27acd107-d10b-4602-bcf3-7da70feb0d2f,armored.media,available,7.99,,medium,low,7,name.com,,,
+27acd107-d10b-4602-bcf3-7da70feb0d2f,armored.media,available,5.98,58.98,low,low,7,namecheap,,,22/09/2026 08:00
 c256a710-8c47-4e33-9833-e61cc21c2de3,aspirin.media,available,,,high,low,7,,,,
 53b5605b-aa30-4975-b3ed-02b111dc0121,complicated.media,available,7.99,,medium,low,11,name.com,,,
 a4449007-6f1f-4baf-82aa-9491d0ae307e,azure.media,available,,,high,low,5,,,,
-069abe8b-803c-4ff5-88d9-3999a9a5aa03,very.media,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",26/08/2019 12:59,26/08/2026 12:59,
+069abe8b-803c-4ff5-88d9-3999a9a5aa03,very.media,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",26/08/2019 12:59,26/08/2027 12:59,22/09/2026 14:09
 501e68f2-2af9-49fa-806e-091917dff4c2,acquitted.media,available,5.98,58.98,low,low,9,namecheap,,,
 c9e39fca-c765-430c-9843-4f23b7168b36,pieceofpaper.media,available,7.99,,low,low,14,name.com,,,
+e2a85689-9be9-4fca-b8da-8670fda717cd,likewise.media,available,11.99,44.99,low,low,8,namesilo,,,22/09/2026 00:06
 10cbf909-54eb-4715-8072-253d88d904f8,gotothetoilet.media,available,7.99,,medium,low,16,name.com,,,
 a2ea8713-4c33-4fb5-b71a-701d4768129c,switch.media,available,,,high,low,6,,,,
 666727c9-6753-42f9-85f0-a7272d66998b,charactertrait.media,available,7.99,,high,low,15,name.com,,,
 c99f3f87-353d-46e4-bdc8-29d18a4f172a,singapore.media,available,,,high,low,9,,,,
-024f74f7-6225-4dc8-9160-d190bb47d081,banal.media,available,7.99,,medium,low,5,name.com,,,
+024f74f7-6225-4dc8-9160-d190bb47d081,banal.media,available,11.99,44.99,low,low,5,namesilo,,,22/09/2026 16:37
 505f98ab-bc54-4ad9-b22c-d888419042d3,earliest.media,available,7.99,60.99,medium,low,8,name.com,,,
-b785be7d-f6de-4f2f-9427-411f22eb5084,choice.media,resell,,,high,low,6,"DNSPod, Inc.",23/12/2020 23:39,23/12/2026 23:39,
+b785be7d-f6de-4f2f-9427-411f22eb5084,choice.media,resell,,,medium,low,6,"DNSPod, Inc.",23/12/2020 23:39,23/12/2026 23:39,22/09/2026 02:45
 d503204b-f5bb-4782-a9fc-dcf2af1a6a34,childofcolour.media,available,7.99,,medium,low,15,name.com,,,
 59fff716-0a18-448b-945c-4ba82c5abc40,payfor.media,available,7.99,,high,low,7,name.com,,,
 300e542b-aca6-4b2f-9245-e7647f08edaf,beefedup.media,available,5.98,58.98,low,low,9,namecheap,,,09/08/2026 07:44
@@ -316,7 +313,7 @@ a25997b5-158c-4b0e-a449-0ab4818bf9ec,policies.media,available,5.98,58.98,low,low
 5ba1932b-5a22-4d03-9d6d-5fddbe5cdc48,inthefastlane.media,available,7.99,,medium,low,16,name.com,,,
 2cc50ecf-7fcc-4009-b3f3-f61d81149fee,toe.media,premium,140,280,medium,low,3,namecheap,,,
 63c3ce1b-6164-4281-b13f-ebde28d9c34b,amniotic.media,available,5.98,58.98,low,low,8,namecheap,,,
-7ce3e04b-8551-4936-8001-25c90bd03c81,absolutely.media,available,7.99,,high,low,10,name.com,,,
+7ce3e04b-8551-4936-8001-25c90bd03c81,absolutely.media,available,7.99,,medium,low,10,name.com,,,
 7755227d-9ebf-46a0-87aa-526876e1c07b,iseeyou.media,available,,,medium,low,9,,,,
 b701a1e0-bbbd-46ca-8288-87fc16d0d713,roots.media,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",12/10/2022 13:15,12/10/2026 13:15,
 de2d6cf0-627a-402a-9fff-e8ef8c879947,battleful.media,available,5.98,58.98,low,low,9,namecheap,,,09/08/2026 01:39
@@ -324,7 +321,7 @@ de2d6cf0-627a-402a-9fff-e8ef8c879947,battleful.media,available,5.98,58.98,low,lo
 5428d77d-0eb3-4d68-8988-53b177bb3def,beautifully.media,available,7.99,,medium,low,11,name.com,,,
 65603b22-2d34-40a6-b257-07eabffe1419,stigmatic.media,available,5.98,58.98,low,low,9,namecheap,,,
 407a8f2e-eb5a-4a76-8dc0-39f4df756049,magnifyingglass.media,available,7.99,,high,low,16,name.com,,,
-74cf155c-e3d9-4a57-af61-cd9ad9308daa,twentysix.media,available,7.99,60.99,high,low,10,name.com,,,
+74cf155c-e3d9-4a57-af61-cd9ad9308daa,twentysix.media,available,11.99,44.99,medium,low,10,namesilo,,,21/09/2026 12:53
 17c5ffe5-931f-4cb0-886c-ff22d89ab965,baccate.media,available,5.98,58.98,low,low,7,namecheap,,,08/08/2026 04:03
 4216e965-b9f3-48ce-8c6d-bd44d0803a46,fascinated.media,available,7.99,,high,low,10,name.com,,,
 4058a803-5647-4fbc-b50b-b53354ff568d,parched.media,available,5.98,58.98,low,low,7,namecheap,,,
@@ -332,7 +329,7 @@ de2d6cf0-627a-402a-9fff-e8ef8c879947,battleful.media,available,5.98,58.98,low,lo
 9eed9990-72e4-431e-b7b9-eb84ba1fa8ec,clipthewingsof.media,available,7.99,,high,low,17,name.com,,,
 511740e8-5b20-4983-a099-7fa017d2fb90,happy.media,resell,,,high,medium,5,Porkbun LLC,09/12/2016 22:48,09/12/2026 22:48,
 d5b5ed53-e87b-4659-b88e-f86b6056c321,often.media,available,7.99,,high,low,5,name.com,,,
-beb72b96-f38a-4a64-ad29-12d35130d862,accountability.media,available,7.99,,high,low,14,name.com,,,
+beb72b96-f38a-4a64-ad29-12d35130d862,accountability.media,available,7.99,,medium,low,14,name.com,,,
 669d5532-e46b-44cd-89cc-3f98a3301df3,actiondoll.media,available,7.99,,high,low,11,name.com,,,
 66ee1b94-ae41-49f7-9efd-68a6be5d45c5,parkingspot.media,available,7.99,,high,low,12,name.com,,,
 0d09559e-472f-4bf0-b7cb-fa21950f73f8,childbenefit.media,available,7.99,,medium,low,13,name.com,,,
@@ -348,9 +345,8 @@ e4635109-c349-47d2-a1d9-fae8dd22d9e2,costofmoney.media,available,7.99,,medium,lo
 b5fe4f78-27de-435b-8ca5-5badc848a910,cxlv.media,available,,,medium,low,4,,,,
 31240075-4f45-4d2f-a56e-f7fe88cc1578,apneic.media,available,5.98,58.98,low,low,6,namecheap,,,06/08/2026 00:40
 5648892d-75cd-4e29-ad96-074fd433b627,howdoyedo.media,available,7.99,,medium,low,12,name.com,,,
-3a671ac0-c6d3-49f8-83db-79b3f10ac360,historical.media,resell,,,high,low,10,Porkbun LLC,15/08/2014 04:05,15/08/2026 04:05,
 1c807134-08c4-44be-be6f-065a94d4bb72,perch.media,resell,,,low,low,5,Porkbun LLC,12/09/2025 21:37,12/09/2026 21:37,
-07e48670-51c1-4b44-881c-58f06f5a4c1c,swap.media,resell,,,high,low,4,"DNSPod, Inc.",30/07/2023 15:15,30/07/2026 15:15,
+07e48670-51c1-4b44-881c-58f06f5a4c1c,swap.media,resell,,,high,low,4,"DNSPod, Inc.",30/07/2023 15:15,30/07/2027 15:15,20/09/2026 04:42
 30cb8c87-b675-4eff-ada5-e36121b49782,analeptic.media,available,5.98,58.98,low,low,9,namecheap,,,
 38e2f5f2-4e22-47e9-845f-70073f375ef0,seem.media,available,7.99,,high,low,4,name.com,,,
 4b4f9d1d-0aca-4025-9d31-84848f37d5a2,quartet.media,available,5.98,58.98,low,low,7,namecheap,,,
@@ -389,7 +385,7 @@ d04b7e0d-fc6a-4e87-a378-400bc57b36ec,wish.media,resell,,,high,low,4,"Xiamen Chin
 18c48e41-26b8-4b9a-879c-cf2250489577,exercisebicycle.media,available,7.99,,high,low,16,name.com,,,
 7ad65c54-7e2b-4ec6-bea5-b8d93ac07d8a,embrace.media,premium,140,280,high,low,7,namecheap,,,
 fcc50b94-9398-4587-9e3c-904c066b9cd9,agonizing.media,available,5.98,58.98,low,low,9,namecheap,,,
-59df76df-acca-4e4b-ad01-7bf4d9adb057,agreeable.media,available,7.99,60.99,high,low,9,name.com,,,
+59df76df-acca-4e4b-ad01-7bf4d9adb057,agreeable.media,available,11.99,44.99,medium,low,9,namesilo,,,21/09/2026 23:17
 2b268367-9662-4097-96a2-fe414b303bb6,desktopcomputer.media,available,7.99,,high,low,16,name.com,,,
 ba1b23fa-5d4d-410a-a43b-697f81c8a058,poorly.media,available,7.99,,medium,low,6,name.com,,,
 e3f455b6-dec8-4078-9e91-72c6daa38e87,flipthebird.media,available,7.99,,medium,low,13,name.com,,,
@@ -399,7 +395,7 @@ fb0f0aac-0625-4fc1-bdf3-dc8ce9bf8631,autogenous.media,available,5.98,58.98,low,l
 423bb8ab-e20a-4b25-8e33-398b9d43ac80,pissabout.media,available,7.99,,low,low,10,name.com,,,
 a8de413c-4886-473b-87c4-3f4934cacae3,strong.media,resell,,,high,low,6,"DNSPod, Inc.",08/10/2022 13:15,08/10/2026 13:15,
 1684d8da-b905-4d9b-8ba0-174f5c50aec5,thing.media,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",15/06/2020 14:33,15/06/2026 14:33,
-d827f40a-16c9-4bb0-b597-0541934b9f69,angelic.media,available,7.99,,high,low,7,name.com,,,
+d827f40a-16c9-4bb0-b597-0541934b9f69,angelic.media,available,11.99,44.99,medium,low,7,namesilo,,,22/09/2026 04:25
 92feaa42-07c8-4f33-9982-e9cf740ca39b,thisway.media,available,7.99,,low,low,8,name.com,,,
 970f082c-1a70-4158-9796-8c9b3217f9bb,colors.media,resell,,,high,low,6,Dynadot Inc,23/01/2026 17:00,23/01/2027 17:00,
 dc2a3479-80b1-4ffb-b696-799bc720f06f,getin.media,available,7.99,,high,low,6,name.com,,,
@@ -445,7 +441,7 @@ b9b99bf9-b423-42bc-825d-a4b7b86d28d0,letterofthelaw.media,available,7.99,,medium
 fd524304-a168-4f27-a48d-fb5674b7ba91,diverted.media,available,5.98,58.98,low,low,8,namecheap,,,
 3b36b438-b383-4e5f-917b-11d18ea4e99a,southkorea.media,available,7.99,,low,low,11,name.com,,,
 e326337a-a7f9-461b-b573-d406f23dddb7,tel.media,premium,560,1120,medium,low,3,namecheap,,,
-e93bfa2c-f93f-4940-a46b-87b5ce7db19a,bluish.media,available,7.99,,high,low,6,name.com,,,
+e93bfa2c-f93f-4940-a46b-87b5ce7db19a,bluish.media,available,11.99,44.99,low,low,6,namesilo,,,22/09/2026 22:47
 deccdf30-5c38-4c96-a498-61629aaf4f00,inreturn.media,available,7.99,,medium,low,9,name.com,,,
 31f513be-bbf4-4231-9ad4-6163b708af45,hokey.media,available,5.98,58.98,low,low,5,namecheap,,,09/08/2026 00:37
 6c974a53-dc53-43f4-978f-54cca913ec74,enwrapped.media,available,5.98,58.98,low,low,9,namecheap,,,
@@ -468,7 +464,7 @@ cba49bd1-50af-4ed0-ae09-45b9237d82e7,wellcovered.media,available,7.99,,high,low,
 20f7cbf2-89c5-4b20-8813-01accb3dc1b3,anodic.media,available,5.98,58.98,low,low,6,namecheap,,,
 debc907a-7cac-40d9-9621-5ebb1fe0e9fc,summoned.media,available,7.99,,low,low,8,name.com,,,
 40e81ee9-2632-4201-ab93-89c6e58901bc,supervisor.media,available,7.99,,medium,low,10,name.com,,,
-b512255e-f313-40e2-ae43-c8c2463f5368,blueish.media,available,7.99,,high,low,7,name.com,,,
+b512255e-f313-40e2-ae43-c8c2463f5368,blueish.media,available,11.99,44.99,low,low,7,namesilo,,,22/09/2026 22:51
 defa579b-010a-4f20-ab1a-0777d8eebc3c,england.media,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",31/01/2024 15:15,31/01/2027 15:15,
 9fd6075c-3645-4855-aad8-0d90c8067416,wintersun.media,available,7.99,,medium,low,10,name.com,,,
 c12c20af-cac0-4acc-a52b-125e3220a121,aleatory.media,available,5.98,58.98,low,low,8,namecheap,,,
@@ -477,34 +473,31 @@ c1669a59-9c9c-457a-a58b-3794a78a1fe5,commoncold.media,available,7.99,,medium,low
 6572dfd7-509d-499f-b1b6-93156f911f87,schmalzy.media,available,5.98,58.98,low,low,8,namecheap,,,09/08/2026 01:09
 ace213bc-32f4-4a41-b1d7-61b688acfcce,coldrubber.media,available,7.99,,medium,low,11,name.com,,,
 1729e608-c9db-4f82-88b4-8ea777d5e73c,howyousay.media,available,7.99,,medium,low,11,name.com,,,
-7b660b1e-2935-45ea-a353-c23e68e36990,deuce.media,resell,,,medium,low,5,"Sav.com, LLC - 5",04/11/2025 15:15,04/11/2026 15:15,
 02572b7d-6642-4d75-ab93-bef7f1a06d8a,crash.media,resell,,,high,low,5,"DNSPod, Inc.",05/03/2021 09:37,05/03/2027 09:37,
-06dc19b7-ddbc-4435-b142-53b8b9e39f01,answerable.media,available,7.99,,high,low,10,name.com,,,
+06dc19b7-ddbc-4435-b142-53b8b9e39f01,answerable.media,available,5.98,58.98,medium,low,10,namecheap,,,22/09/2026 05:32
 63b77007-7e07-4c30-96d2-10422acbda52,steeltoeboot.media,available,7.99,,high,low,14,name.com,,,
 6e26618d-eca9-42df-b96c-b8940ef772ec,bucketlist.media,available,7.99,,high,low,11,name.com,,,
 cf50faf2-eaf3-4e22-8ba3-efb41fee985a,subtle.media,resell,,,high,low,6,Porkbun LLC,07/07/2025 19:22,07/07/2027 19:22,17/09/2026 21:09
 68144192-983c-4b2f-8e1e-bc37a0dd2813,aliform.media,available,5.98,58.98,low,low,7,namecheap,,,
-999ee0b7-8182-4848-80b8-0802dd1cbdfa,observed.media,available,7.99,,medium,low,8,name.com,,,
+999ee0b7-8182-4848-80b8-0802dd1cbdfa,observed.media,available,11.99,44.99,low,low,8,namesilo,,,22/09/2026 09:25
 ff912aaa-721f-45ec-8857-cbe68b9a62b4,devise.media,available,7.99,,high,low,6,name.com,,,
 c9e0e4bb-e180-4d5a-8744-947055cf92d2,advertent.media,available,5.98,58.98,low,low,9,namecheap,,,
 8c5847d3-c709-4db4-9d40-f23171ed813a,however.media,available,7.99,,high,low,7,name.com,,,
 e9fec3f5-1d3c-4835-bf03-9525e751c20c,apposite.media,available,5.98,58.98,low,low,8,namecheap,,,06/08/2026 07:53
 14b454a1-03cc-447a-b11f-d1bfde6be204,allowable.media,available,5.98,58.98,low,low,9,namecheap,,,
-a7e1d4c1-08c4-4fb3-81bc-31f34d1d8f03,doable.media,available,7.99,60.99,high,low,6,name.com,,,
+a7e1d4c1-08c4-4fb3-81bc-31f34d1d8f03,doable.media,available,11.99,44.99,medium,low,6,namesilo,,,21/09/2026 15:46
 9946aee1-45d5-47ea-b06a-ae5f3bd5a642,enterthepicture.media,available,7.99,,medium,low,17,name.com,,,
 3e610fe0-6176-42f6-9071-49a94944f745,comparatively.media,available,7.99,,medium,low,13,name.com,,,
 efb2e2a3-b499-4f32-a2b9-1c57b6b59ddd,campaigning.media,available,7.99,,medium,low,11,name.com,,,
 643a2e3b-21df-435c-9521-98e1df6d8b35,date.media,premium,46.2,92.4,high,low,4,namecheap,,,
-50f54504-5317-46a9-90cb-2d6e1a01b404,older.media,available,7.99,60.99,medium,low,5,name.com,,,
+50f54504-5317-46a9-90cb-2d6e1a01b404,older.media,available,11.99,44.99,low,low,5,namesilo,,,21/09/2026 22:32
 7836914a-aacf-444a-a7dc-540cdc236a1c,borne.media,available,7.99,,medium,low,5,name.com,,,
 2a22d64e-de9f-454f-8af9-732a5561d661,sedulous.media,available,5.98,58.98,low,low,8,namecheap,,,07/08/2026 06:14
-e1b4d75c-fbff-49b9-9507-324ac999567d,flat.media,resell,,,high,low,4,"DNSPod, Inc.",08/01/2022 13:15,08/01/2027 13:15,
+e1b4d75c-fbff-49b9-9507-324ac999567d,flat.media,resell,,,medium,low,4,"DNSPod, Inc.",08/01/2022 13:15,08/01/2027 13:15,21/09/2026 12:19
 b150a458-700b-4b44-bb96-84a592b26924,insect.media,available,7.99,,medium,low,6,name.com,,,
-d5bb8f17-5ad1-4c86-a496-b5505282dc5e,audible.media,available,,,high,high,7,,,,
 858476dd-575b-49d3-af65-5972cccd1961,avellan.media,available,5.98,58.98,low,low,7,namecheap,,,07/08/2026 22:24
 bb1079b6-a4f4-49d3-8508-8c4149623856,assentient.media,available,5.98,58.98,low,low,10,namecheap,,,07/08/2026 05:48
-a0834917-19d3-4e1e-be40-0e4094bfe03b,aseptic.media,available,7.99,,high,low,7,name.com,,,
-15f0ed93-e47e-43c4-94ed-4814325e30a7,born.media,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2020 11:05,14/10/2026 11:05,
+a0834917-19d3-4e1e-be40-0e4094bfe03b,aseptic.media,available,11.99,44.99,low,low,7,namesilo,,,22/09/2026 09:33
 eb3abe25-19e7-4dd8-a54c-f3af72cb4cb2,fidgety.media,available,5.98,58.98,low,low,7,namecheap,,,05/08/2026 20:32
 467c63ad-0c5d-4138-8402-9efa28b8fff9,midfebruary.media,available,7.99,,high,low,12,name.com,,,
 8c16f57e-f90a-4f2f-b4c4-9eab80b70b47,afflicted.media,available,5.98,58.98,low,low,9,namecheap,,,
@@ -532,7 +525,6 @@ ee012d30-95ca-4cee-b2d8-ce88817c3f58,feeling.media,available,7.99,,high,low,7,na
 c1d4927f-f974-4398-a41c-c0952c92192e,river.media,resell,,,high,low,5,"NameSilo, LLC",15/05/2019 14:27,15/05/2027 14:27,
 fe182f92-cdb0-4225-825e-74c3658bf12a,thinkof.media,available,7.99,,medium,low,8,name.com,,,
 b2f67fff-a537-4147-a146-0f50438dd29e,humanity.media,resell,,,high,low,8,"Sav.com, LLC - 5",23/09/2025 17:00,23/09/2026 17:00,
-0a3d3710-4e23-4377-bfc0-7829e6ecba58,adept.media,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",11/10/2022 13:15,11/10/2026 13:15,
 df0b4df6-b06d-48b1-baec-3cdd79a19bfa,celiacdisease.media,available,7.99,,medium,low,14,name.com,,,
 5e66a26e-9c9c-417a-9bbe-d071ac845683,sixtynine.media,available,5.98,58.98,low,low,10,namecheap,,,
 0e2e1d1c-9c57-428c-9341-1b114ca05b57,middleclass.media,available,7.99,,medium,low,12,name.com,,,
@@ -572,7 +564,7 @@ d7814cd2-a392-47a8-9e30-bf6e8d76532a,setaside.media,available,5.98,58.98,low,low
 9092b55f-94ae-4e52-b0a5-43f04eb6e491,outsideof.media,available,7.99,,medium,low,10,name.com,,,
 417a74d9-0a3b-44ff-aba4-a8673886f9d5,gosing.media,available,7.99,,high,low,7,name.com,,,
 89491397-f46a-477f-aadc-51a5c974e479,shelter.media,resell,,,high,low,7,"DNSPod, Inc.",19/07/2023 15:15,19/07/2027 15:15,19/09/2026 12:37
-5ff32ff7-3d91-40b3-a6d3-090ea6c0337e,bass.media,resell,,,medium,low,4,"DNSPod, Inc.",15/01/2024 15:15,15/01/2027 15:15,
+5ff32ff7-3d91-40b3-a6d3-090ea6c0337e,bass.media,resell,,,low,low,4,"DNSPod, Inc.",15/01/2024 15:15,15/01/2027 15:15,22/09/2026 18:00
 2a9197a1-0946-433f-95ab-ce4331955d20,turnahair.media,available,7.99,,low,low,11,name.com,,,
 d74216b7-2ff5-4e37-8581-c3a7b596cc8f,clxxx.media,available,5.98,58.98,low,low,5,namecheap,,,
 41f430a5-c2f6-449b-ab84-b1ef116b59b7,imputable.media,available,5.98,58.98,low,low,9,namecheap,,,07/08/2026 01:22
@@ -600,12 +592,12 @@ c02bb973-af24-4323-aea4-e77061f71b7f,unitedkingdom.media,available,,,low,low,14,
 38f2b2df-7075-4fad-b440-0bc29279245d,naturestudent.media,available,7.99,,low,low,14,name.com,,,
 e7cb4344-3a10-4aba-871e-596eabb716ea,fate.media,resell,,,medium,low,4,"DNSPod, Inc.",17/12/2023 15:15,17/12/2026 15:15,
 fc9126e9-d324-4430-8cb8-ccfa6a9bf2cd,nearly.media,available,7.99,,high,low,6,name.com,,,
-22b4a134-062c-4fc4-8321-7c42d55b80c5,aussie.media,premium,69.3,138.6,high,low,6,namecheap,,,
+22b4a134-062c-4fc4-8321-7c42d55b80c5,aussie.media,premium,118.8,118.8,low,low,6,namesilo,,,22/09/2026 13:32
 0015b8a5-fd23-4d64-b4fa-551c0e6bdf9e,experimentally.media,available,7.99,,medium,low,14,name.com,,,
 ccbb220d-de88-4252-b881-378f530f25de,bald.media,available,5.98,58.98,low,low,4,namecheap,,,08/08/2026 09:16
 c3df0939-d183-402f-ba23-234195087362,atall.media,available,7.99,,medium,low,6,name.com,,,
 173f6082-d9f9-4c01-a99f-225fafdeda88,seats.media,available,7.99,,high,low,5,name.com,,,
-f6879026-2119-4399-b11b-310fd9b6d1ac,acting.media,available,7.99,60.99,high,low,6,name.com,,,
+f6879026-2119-4399-b11b-310fd9b6d1ac,acting.media,available,5.98,58.98,low,low,6,namecheap,,,21/09/2026 16:22
 b57991fe-565d-4e4e-aa01-567196ea7ff5,lockbox.media,available,7.99,,medium,low,7,name.com,,,
 ec150346-5a14-433b-9aee-bc7f75346189,returnticket.media,available,7.99,,high,low,13,name.com,,,
 5c4605d3-9f02-4e1b-91d0-e1c67860d3da,quickness.media,available,7.99,,high,low,9,name.com,,,
@@ -617,7 +609,7 @@ fc606544-adb7-40ab-b6dc-6a2dd79b921c,trees.media,available,7.99,,medium,low,5,na
 9f2d837c-004a-427f-9b4c-7e994854c082,airdried.media,available,5.98,58.98,low,low,9,namecheap,,,
 3cad81b5-9102-488d-94c4-69f8fb926633,flack.media,available,5.98,58.98,low,low,5,namecheap,,,
 dd7004da-fbd7-4461-976f-cc37bca9c013,describe.media,available,7.99,,high,low,8,name.com,,,
-e6fce230-c73c-4349-9acf-4f6bf3b52abd,annoyed.media,available,7.99,,medium,low,7,name.com,,,
+e6fce230-c73c-4349-9acf-4f6bf3b52abd,annoyed.media,available,11.99,44.99,low,low,7,namesilo,,,22/09/2026 05:18
 a06dd1c6-4af3-43fe-913a-a0364f3729d9,christmascarol.media,available,7.99,,high,low,15,name.com,,,
 45011724-a6d1-40d2-98f2-cd8578ca0fb3,zoologicalpark.media,available,7.99,,high,low,15,name.com,,,
 0fe7b850-732c-49b1-b0cd-baa9d25b6b49,lend.media,available,7.99,,high,low,4,name.com,,,
@@ -638,7 +630,7 @@ ee254c7b-fb4e-4b0d-b191-f4e1245f8bd1,claimform.media,available,7.99,,medium,low,
 c93ef004-c8ae-4934-a883-68a0440cba75,aphakic.media,available,5.98,58.98,low,low,7,namecheap,,,05/08/2026 22:56
 a1a3d354-7263-417e-b6d1-0d7c68b5d067,partyhat.media,available,7.99,,high,low,9,name.com,,,
 3e74a81d-8ae3-4941-82ce-d298a6757a89,adjunct.media,available,5.98,58.98,low,low,7,namecheap,,,
-e39c5b5b-d880-44ad-841a-fb78bc471410,accountstatement.media,available,7.99,,medium,low,17,name.com,,,
+e39c5b5b-d880-44ad-841a-fb78bc471410,accountstatement.media,available,7.99,,low,low,17,name.com,,,
 f8270957-5c33-41b8-b757-5eda0bd44364,starchlike.media,available,5.98,58.98,low,low,10,namecheap,,,
 d4efee49-f94b-4b98-9f8d-0a604ec19ef9,peacecorps.media,available,7.99,,low,low,11,name.com,,,
 fcdb447b-73f4-4dce-9875-7ea1ae412259,teammate.media,available,7.99,,high,low,8,name.com,,,
@@ -654,7 +646,7 @@ d3fd19d6-7cc5-4ca8-9175-19914abae2a6,rightaway.media,available,11.99,44.99,low,l
 c697fa46-2928-483e-8da9-ce4f7b60f6d8,midjanuary.media,available,7.99,,high,low,11,name.com,,,
 9b369d6e-6bab-4f54-a344-f46a646b7cab,overjoy.media,available,7.99,,high,low,7,name.com,,,
 1172627c-381e-403b-8344-033cfe028b66,authorial.media,available,5.98,58.98,low,low,9,namecheap,,,07/08/2026 16:19
-c39ea0cb-4a67-4eaf-a146-92d80c9b953c,endearing.media,available,7.99,60.99,high,low,9,name.com,,,
+c39ea0cb-4a67-4eaf-a146-92d80c9b953c,endearing.media,available,5.98,58.98,medium,low,9,namecheap,,,21/09/2026 19:24
 8ebce72f-88a8-42d0-a4e1-21610c45d494,believeyoume.media,available,7.99,,medium,low,14,name.com,,,
 4e89c0a8-61f1-4c26-a880-e49b1cc53619,self.media,resell,,,low,low,4,Dynadot Inc,08/09/2024 15:15,08/09/2027 15:15,19/09/2026 02:59
 ef56e27a-e544-4d3d-bef9-893eb84a39c3,breathefreely.media,available,7.99,,high,low,14,name.com,,,
@@ -673,13 +665,12 @@ ca6b9fb6-5df6-41dd-a98f-272a01554de7,bflat.media,available,7.99,,medium,low,6,na
 30abcd20-0170-4dc2-b89d-c308595d054b,execrable.media,available,5.98,58.98,low,low,9,namecheap,,,
 36b1f2ba-4e90-4784-9ff7-001ac5731de9,collarbone.media,available,7.99,,medium,low,11,name.com,,,
 95a3022f-9f97-431d-befb-7a5ec9a6cfb4,closetogether.media,available,7.99,,medium,low,14,name.com,,,
-85d8c021-631b-4169-9f39-4e2f71c949aa,sharp.media,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",08/10/2016 10:03,08/10/2026 10:03,
 db7f3d3a-5393-4f57-94b1-543a5c3844fa,gym.media,resell,,,high,low,3,Squarespace Domains II LLC,28/05/2022 18:00,28/05/2027 18:00,
-4f6810ab-0e7f-4000-b14d-8a4b00b93651,justabout.media,available,7.99,60.99,medium,low,10,name.com,,,
+4f6810ab-0e7f-4000-b14d-8a4b00b93651,justabout.media,resell,7.99,60.99,low,low,10,name.com,,,21/09/2026 14:09
 af8e76b5-c247-4984-8291-039c39619c93,asinine.media,available,5.98,58.98,low,low,7,namecheap,,,07/08/2026 02:35
 9cc7463b-14bc-4fab-bdb2-7bfa92d4f2fa,dignitary.media,available,7.99,,high,low,9,name.com,,,
 d06468c6-c73c-4460-a3ed-4bc4e0430d8a,portable.media,available,7.99,,high,low,8,name.com,,,
-e66ac2a0-430b-4a71-ba81-4e3d4a288f52,lovely.media,resell,,,high,low,6,"Sav.com, LLC - 31",13/09/2025 15:15,13/09/2026 15:15,
+e66ac2a0-430b-4a71-ba81-4e3d4a288f52,lovely.media,resell,,,low,low,6,"Sav.com, LLC - 31",13/09/2025 15:15,13/09/2027 15:15,21/09/2026 19:31
 857b228a-b634-46d0-ab20-8e2a0e28c54d,letalone.media,available,7.99,,medium,low,9,name.com,,,
 c014b783-a6b2-4aa7-82a0-a31ca6390918,improvize.media,available,5.98,58.98,medium,low,9,namecheap,,,
 85016aa6-5d55-4413-a4bd-bfbc0731605a,bakery.media,resell,,,high,low,6,"DNSPod, Inc.",03/05/2025 15:15,03/05/2027 15:15,
@@ -698,7 +689,7 @@ fcedbb26-a14e-4996-bed7-60d77baa0f97,achaean.media,available,5.98,58.98,low,low,
 07724536-82d8-4634-9e97-194369adc465,outofaction.media,available,7.99,,low,low,13,name.com,,,
 fb8ac856-8bdf-4639-b530-f3d23d455dca,infant.media,available,7.99,,high,low,6,name.com,,,
 5f5b3b94-f88a-45f4-a18e-6496c6b8914f,borderon.media,available,7.99,,medium,low,9,name.com,,,
-59461017-93cc-47c8-9fee-5af6e0b81d1c,advocate.media,resell,,,high,low,8,"Sav.com, LLC - 29",15/08/2025 15:15,15/08/2026 15:15,
+59461017-93cc-47c8-9fee-5af6e0b81d1c,advocate.media,resell,,,high,low,8,"Sav.com, LLC - 29",15/08/2025 15:15,15/08/2027 15:15,20/09/2026 22:21
 16cd3787-34ea-4bbe-aa93-48cfdfba5ddb,shakealeg.media,available,7.99,,low,low,11,name.com,,,
 fc046b41-32fa-4852-a3c8-e8b8ae38df2a,caught.media,available,7.99,,high,low,6,name.com,,,
 b7ca1a2d-b2e9-4ea0-a363-765c55458cc4,third.media,resell,,,low,low,5,"Sav.com, LLC - 26",09/11/2025 15:15,09/11/2026 15:15,
@@ -709,7 +700,7 @@ d9086fe6-e7fe-4799-9fb6-cbec0f2324fe,alimentary.media,available,5.98,58.98,low,l
 ca4d6d00-5d8f-4758-89fb-08925027edee,ataxic.media,available,5.98,58.98,low,low,6,namecheap,,,07/08/2026 12:32
 2234d8e9-3c8c-4c5b-8ff6-b314dd2947c8,brighten.media,available,7.99,,high,low,8,name.com,,,
 9545a3f9-053e-4d34-bcb5-5fabb0c82c68,add.media,resell,,,high,low,3,Dynadot Inc,19/02/2020 19:55,19/02/2028 19:55,
-7d60e3d4-1ea2-4bf3-a54f-114ad279815b,david.media,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",19/08/2019 07:05,19/08/2026 07:05,
+7d60e3d4-1ea2-4bf3-a54f-114ad279815b,david.media,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",19/08/2019 07:05,19/08/2027 07:05,21/09/2026 02:38
 8ffc9ea3-37bd-40ac-a7f3-15c7fe73508a,appropriately.media,available,7.99,,medium,low,13,name.com,,,
 8b3fa4fd-5436-496b-89dd-7b87e8abc0d8,bedhead.media,available,7.99,,medium,low,8,name.com,,,
 d360e0fb-0234-4a41-9782-2ff0d4c733dd,cheap.media,premium,140,280,high,low,5,namecheap,,,
@@ -720,7 +711,7 @@ ed9b34d7-f9ef-4dec-a436-6acf29a8b6b5,alpestrine.media,available,5.98,58.98,low,l
 99b323fe-b326-4917-978f-a7179d3600c9,leaveout.media,available,7.99,,medium,low,9,name.com,,,
 7ad8b90f-0076-4664-acb1-18d9ac19c48e,basiscopic.media,available,5.98,58.98,low,low,10,namecheap,,,08/08/2026 22:48
 4484a23b-e1b5-478f-98ec-ae78215f1c2d,spirited.media,resell,,,high,low,8,"Sav.com, LLC - 3",01/11/2025 15:15,01/11/2026 15:15,
-6d0a16ff-8247-4804-953a-6ab68542bf99,champion.media,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",20/02/2020 09:23,20/02/2027 09:23,
+6d0a16ff-8247-4804-953a-6ab68542bf99,champion.media,resell,,,medium,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",20/02/2020 09:23,20/02/2027 09:23,21/09/2026 17:32
 e98f9392-b0cf-40e9-8095-649361ab3582,succinct.media,available,7.99,60.99,medium,low,8,name.com,,,
 52c681af-e2d3-4b59-a5e6-b6b56bd9a5c8,flooded.media,available,5.98,58.98,low,low,7,namecheap,,,08/08/2026 00:23
 6e54e346-b0ea-4990-97cb-1e941bf107e7,webbrowser.media,available,7.99,,high,low,11,name.com,,,
@@ -745,7 +736,7 @@ db63712b-a364-41cd-ba27-7d10aee43a35,obtain.media,available,7.99,,high,low,6,nam
 0688ba81-ad54-4f54-abbb-02fa44dcd6e8,comfortably.media,available,7.99,,medium,low,11,name.com,,,
 0cd4b561-dca2-4cc1-b14e-13e3c2769063,motherfukkah.media,available,7.99,,medium,low,12,name.com,,,
 365484e0-1606-489a-bab1-336b7273d69a,makeright.media,available,7.99,,high,low,10,name.com,,,
-32532b04-9fc5-46af-a0a9-5e5ce648a5ef,auspicious.media,available,7.99,,high,low,10,name.com,,,
+32532b04-9fc5-46af-a0a9-5e5ce648a5ef,auspicious.media,available,11.99,44.99,medium,low,10,namesilo,,,22/09/2026 13:12
 ef42ebd7-f111-4074-bcd7-85671b750f2c,pyramid.media,resell,,,medium,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/11/2022 15:15,21/11/2026 15:15,08/09/2026 13:53
 22328fbc-cde9-4c24-a5cd-1c0343c42dcd,channukkah.media,available,7.99,,medium,low,10,name.com,,,
 78f082f9-808e-4ceb-a9b3-2c954eacaf21,wedge.media,available,7.99,,medium,low,5,name.com,,,
@@ -790,7 +781,7 @@ c2cfd603-f4ab-4b8c-9956-32d3e606d743,masculine.media,available,7.99,,high,low,9,
 5c750f65-f976-498b-aadc-eaed265c277c,childlabor.media,available,7.99,,medium,low,11,name.com,,,
 2d58c84e-fdfd-48a0-88e2-fb9cfea311a5,shapeless.media,available,5.98,58.98,low,low,9,namecheap,,,
 a049582b-128b-425c-9551-a6cf6ee50bce,neighbor.media,resell,,,medium,low,8,"Sav.com, LLC - 31",22/06/2025 15:15,22/06/2026 15:15,
-5e805738-94a9-4d7c-941b-1fd54d0183eb,acute.media,available,7.99,60.99,high,low,5,name.com,,,
+5e805738-94a9-4d7c-941b-1fd54d0183eb,acute.media,available,5.98,58.98,medium,low,5,namecheap,,,21/09/2026 16:39
 b51fbf82-7f04-4035-bb1e-6690781729c7,inthehotseat.media,available,7.99,,medium,low,15,name.com,,,
 81d42408-6738-4c48-86c9-4243510750ac,thousandth.media,available,5.98,58.98,low,low,10,namecheap,,,
 5dbd856a-9f39-440b-84d9-9cb1efeff833,sombudy.media,available,7.99,,medium,low,7,name.com,,,
@@ -824,8 +815,6 @@ b0148914-8768-43c9-90b8-f217fe311cff,troika.media,available,5.98,58.98,low,low,6
 837eb176-7f6d-4503-a0ee-9fbad8515191,commanding.media,available,7.99,,high,low,10,name.com,,,
 0f3de0f8-2aeb-45fb-ab7d-a2f6a50a4979,amitotic.media,available,5.98,58.98,low,low,8,namecheap,,,
 1923e8a2-1718-4f6c-b392-6b4efae1d03e,tailend.media,available,5.98,58.98,low,low,8,namecheap,,,09/08/2026 11:36
-4dd72f9a-dea2-44da-99f9-ce9e935490a1,wide.media,resell,,,high,low,4,Porkbun LLC,19/01/2017 19:51,19/01/2027 19:51,
-484ed6f2-8216-4a6d-b9c3-1d3e03b23275,unity.media,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/09/2019 23:56,02/09/2026 23:56,
 98ab298f-de46-429d-84f8-ef993ba72eaf,whatittakes.media,available,7.99,,low,low,13,name.com,,,
 e4a61171-8ba4-4870-a7ff-2f0e0e5c4fd1,arsenical.media,available,5.98,58.98,low,low,9,namecheap,,,06/08/2026 22:18
 7a4a0124-4368-4725-a0e4-39896ac7c607,ballroom.media,available,7.99,,high,low,8,name.com,,,
@@ -842,13 +831,14 @@ daddb042-5604-4ea0-bb11-e422e77f0e32,leg.media,premium,69.3,138.6,high,low,3,nam
 3a957129-8b8b-409a-b924-566b2ce8efb3,penny.media,resell,,,medium,low,5,"Sav.com, LLC - 27",14/04/2026 15:15,14/04/2027 15:15,
 9fbe6439-096a-4111-a751-9a47003bca9c,fortyfive.media,available,5.98,58.98,low,low,10,namecheap,,,
 0f6e76fd-7791-42b9-af8c-f7d8edeb7d6c,algebraic.media,available,5.98,58.98,low,low,9,namecheap,,,
-7f20d7b4-2424-4eab-a707-61acc73e53a1,amateur.media,available,7.99,60.99,high,low,7,name.com,,,
 94955ed1-1c77-4ceb-b20a-10bab98218a8,browsing.media,available,7.99,,high,low,8,name.com,,,
+79b91c7d-52ab-42d1-ad31-72424ee02c61,automated.media,resell,,,medium,low,9,"Sav.com, LLC - 11",03/07/2026 15:15,03/07/2027 15:15,22/09/2026 13:58
 77af2289-66a3-49c6-aa5d-e50459aa1af6,asquint.media,available,5.98,58.98,low,low,7,namecheap,,,07/08/2026 03:10
 0c44cc52-b983-49a3-9860-05bb94ec08fa,anginal.media,available,5.98,58.98,low,low,7,namecheap,,,
 be48d34d-ba52-4e09-b4ed-7fb6d5d5d541,obtained.media,available,7.99,,low,low,8,name.com,,,
 7afbd0e4-f2d7-4df0-8706-cba90ca9d580,anagogical.media,available,5.98,58.98,low,low,10,namecheap,,,
 c682dd15-ac13-4f62-8e2e-6106e97686ed,bjp.media,premium,46.2,92.4,medium,low,3,namecheap,,,
+2e7d31fe-2918-4c81-99f8-7d3f2320df5b,decade.media,resell,,,medium,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",28/04/2022 17:00,28/04/2027 17:00,21/09/2026 10:56
 eb95f737-03a4-470f-8a95-4e3b9f40f7c6,sportsbar.media,available,7.99,,high,low,10,name.com,,,
 877e53a5-29be-4dad-856a-3d6a490fffe2,require.media,available,7.99,,high,low,7,name.com,,,
 c3fafd99-76cb-40ab-9279-b39138eaf172,lii.media,premium,21.45,42.9,low,low,3,namecheap,,,
@@ -864,7 +854,7 @@ aaaab201-b4f6-465b-83aa-dc9adac586d2,soap.media,resell,,,high,low,4,"Chengdu Wes
 477f6c63-61a5-4729-acb0-238b7fc8f645,alkaliser.media,available,5.98,58.98,low,low,9,namecheap,,,
 dd4e87cd-83d2-4171-9af6-1b67c8bdcd50,dye.media,premium,69.3,138.6,medium,low,3,namecheap,,,
 7f3c2dd1-d7ce-4dc3-8f66-c23ff575b5be,crackers.media,available,5.98,58.98,low,low,8,namecheap,,,06/08/2026 20:45
-0f5a8b6d-eea8-4a0b-9396-2dc74b038f30,dozen.media,available,7.99,60.99,high,low,5,name.com,,,
+0f5a8b6d-eea8-4a0b-9396-2dc74b038f30,dozen.media,available,5.98,58.98,medium,low,5,namecheap,,,21/09/2026 11:29
 b244cea6-5f4d-4c87-a04b-ffabdcf969af,coveted.media,available,7.99,60.99,high,low,7,name.com,,,
 153caf79-e413-4785-9327-3c46d4e4ff11,attachment.media,available,7.99,,high,low,10,name.com,,,
 939347bf-7fc5-4622-8224-bc7614d57619,afterwards.media,available,5.98,58.98,low,low,10,namecheap,,,
@@ -876,14 +866,15 @@ faa2ebc4-4424-44f6-b119-c9a0fb069770,commercially.media,available,7.99,,medium,l
 484a8126-facb-491f-a587-e055ed3b7b8c,cometoaclose.media,available,7.99,,high,low,15,name.com,,,
 b9183f50-a7d5-4066-b14e-45f56620360d,cock.media,available,7.99,,medium,low,4,name.com,,,
 948c61df-7365-415f-b01d-215579abb495,shoppingcentre.media,available,7.99,,high,low,15,name.com,,,
-1ea51cf3-aa06-4482-8666-c4a82c003913,wing.media,resell,,,medium,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",04/02/2026 15:15,04/02/2028 15:15,
+1ea51cf3-aa06-4482-8666-c4a82c003913,wing.media,resell,,,low,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",04/02/2026 15:15,04/02/2028 15:15,22/09/2026 15:49
 2981fce1-2afc-441f-a2c8-02bdc831c685,worsening.media,available,7.99,,medium,low,9,name.com,,,
 8932eb5e-d941-4cb3-b8c4-50c3c20a4a22,thiscoming.media,available,7.99,,low,low,11,name.com,,,
-e354182d-9146-41fc-a8a2-5eda66853699,blocked.media,available,7.99,,medium,low,7,name.com,,,
+e354182d-9146-41fc-a8a2-5eda66853699,blocked.media,available,11.99,44.99,low,low,7,namesilo,,,22/09/2026 22:08
 b0c45910-2308-465c-9acc-db9ff1882b89,thereis.media,available,7.99,,low,low,8,name.com,,,
 ac49ca94-e662-4759-bc2a-ebf24b51ef33,getat.media,available,7.99,,high,low,6,name.com,,,
-1b951b1d-fe5d-4793-a1c7-da46b9508db4,auditory.media,available,7.99,,high,low,8,name.com,,,
+1b951b1d-fe5d-4793-a1c7-da46b9508db4,auditory.media,available,11.99,44.99,medium,low,8,namesilo,,,22/09/2026 12:39
 4628e828-6652-4e32-a0d0-f497b269b88e,perfectly.media,available,7.99,,high,low,9,name.com,,,
+80c9b749-fec4-473f-b96e-379058c8db74,like.media,resell,,,medium,low,4,,,,21/09/2026 23:58
 19ae8c6b-80c6-4fe4-801e-d07baa87d8a1,walkingstick.media,available,7.99,,high,low,13,name.com,,,
 7d3b3ec7-9bf5-432c-8319-c96adbb4d859,showoff.media,available,7.99,,medium,low,8,name.com,,,
 c1ec65f4-b399-44f8-a29e-98fddd1111af,acronymic.media,available,5.98,58.98,low,low,9,namecheap,,,
@@ -957,14 +948,13 @@ df347a33-c085-4684-8054-bf43ad177ce1,affiliate.media,resell,,,high,low,9,"Chengd
 21f57958-7df1-4b8a-86e4-dc9e663310bd,covid.media,available,7.99,,high,low,5,name.com,,,
 81701c44-1e7b-4ecb-81e4-c48b7e72948a,therealityis.media,available,7.99,,low,low,14,name.com,,,
 e7c6dbfa-aa3c-4c00-9e28-54a12b7b3619,astudent.media,available,7.99,,high,low,9,name.com,,,
-e0a4f95e-7565-48b9-8163-56c88d9cca67,accessory.media,available,7.99,60.99,high,low,9,name.com,,,
+e0a4f95e-7565-48b9-8163-56c88d9cca67,accessory.media,available,11.99,44.99,medium,low,9,namesilo,,,21/09/2026 15:35
 e62d8bdc-8ee4-4ed2-8fe6-a637d325035a,molecules.media,available,7.99,,medium,low,9,name.com,,,
 fc079870-bfbb-4295-b982-99a2710b4b50,afferent.media,available,5.98,58.98,low,low,8,namecheap,,,
-0d990242-e4fe-4229-9a2d-7439ceda81f5,accepted.media,available,7.99,60.99,high,low,8,name.com,,,
+0d990242-e4fe-4229-9a2d-7439ceda81f5,accepted.media,available,5.98,58.98,medium,low,8,namecheap,,,21/09/2026 15:25
 b776482d-ba97-4364-9ea2-983cdaf9ec28,awarding.media,available,7.99,,high,low,8,name.com,,,
 5d9c35ff-b651-4904-8e7a-c8669ff36f55,ane.media,premium,42.9,85.8,low,low,3,namecheap,,,
-32ee4aae-2e55-4883-8d12-8ce716db1e70,blue.media,available,,,high,high,4,,,,
-9e5204a6-5c22-4385-9adc-ec1c64d700f6,altered.media,resell,,,low,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/08/2020 09:25,16/08/2026 09:25,
+9e5204a6-5c22-4385-9adc-ec1c64d700f6,altered.media,resell,,,low,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/08/2020 09:25,16/08/2027 09:25,20/09/2026 23:02
 5dc5aadb-2319-4035-aa59-cc167a6c2d5d,etiologic.media,available,5.98,58.98,low,low,9,namecheap,,,
 21b3bdf5-80d1-4f4c-83e4-56edf03297cf,incompanywith.media,available,7.99,,medium,low,15,name.com,,,
 f6f1276a-41c1-4a57-b0c5-0ce86435a2d0,getthepoint.media,available,7.99,,high,low,13,name.com,,,
@@ -975,7 +965,7 @@ fe43f187-0e59-4964-8bcf-5fc31dcf0db5,siri.media,available,,,high,low,4,,,,
 f7c48c9b-242c-4e63-8fb2-dbf8e4d79bf4,usage.media,available,7.99,60.99,high,low,5,name.com,,,
 c4f726e7-fa12-4bda-a315-fa8b9295c9c4,compressed.media,available,7.99,,medium,low,10,name.com,,,
 f8a3641f-fe1f-41cb-b04a-b2887e20a3cf,wobbly.media,available,7.99,,medium,low,6,name.com,,,
-aab1eb23-f80a-490e-9d35-f64b68312b5e,affable.media,premium,7.99,60.99,high,low,7,name.com,,,
+aab1eb23-f80a-490e-9d35-f64b68312b5e,affable.media,available,5.98,58.98,medium,low,7,namecheap,,,21/09/2026 21:27
 e86b16f2-1e5e-4250-a67a-0503cf595be7,findout.media,available,,,high,low,8,,,,
 15ef4eea-6ab5-4f47-a981-af24e97f7139,axile.media,available,5.98,58.98,low,low,5,namecheap,,,08/08/2026 01:56
 780a714e-1c99-485a-b58e-ecb7a135be5e,tails.media,available,,,high,low,5,,,,
@@ -984,6 +974,7 @@ e86b16f2-1e5e-4250-a67a-0503cf595be7,findout.media,available,,,high,low,8,,,,
 6f57b871-7713-4775-8956-69ad8c74d891,layer.media,resell,,,medium,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",23/01/2020 12:12,23/01/2027 12:12,
 3d61e137-56b4-4a56-b091-faf4ee520448,cognizant.media,available,5.98,58.98,low,low,9,namecheap,,,08/08/2026 00:13
 bdacbce8-898f-4268-a867-cdce728a2064,antrorse.media,available,5.98,58.98,low,low,8,namecheap,,,05/08/2026 20:21
+8dfd11a5-ba37-447b-a311-c78494b0639c,borderline.media,resell,,,low,low,10,Dynadot Inc,10/07/2026 06:08,10/07/2027 06:08,23/09/2026 00:01
 43514c27-fb5a-452d-9623-44296047a4e7,antennary.media,available,5.98,58.98,low,low,9,namecheap,,,
 120d1185-ef66-46d8-9d98-5d3d061c4065,mothafucker.media,available,7.99,,medium,low,11,name.com,,,
 a418d9a2-deba-4933-a05e-7ed1e63d5b5c,envisioned.media,available,7.99,,high,low,10,name.com,,,
@@ -992,10 +983,19 @@ c202e144-d19f-4409-8311-7e38753aab9a,overhead.media,available,7.99,,high,low,8,n
 5bff7b15-766d-4c1e-9b79-9e1ef0de8abc,pearlwhite.media,available,7.99,,low,low,11,name.com,,,
 fafe9043-2631-4985-ac75-ad4f578271e8,slobabout.media,available,7.99,,low,low,10,name.com,,,
 96d0e017-6ff3-493b-8947-d3c6bb9487b8,giveblood.media,available,7.99,,high,low,10,name.com,,,
-49202e68-80b7-45d0-af4f-ed2461ad55a3,cherry.media,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",25/07/2018 16:17,25/07/2027 16:17,19/09/2026 23:20
+49202e68-80b7-45d0-af4f-ed2461ad55a3,cherry.media,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",25/07/2018 16:17,25/07/2027 16:17,22/09/2026 22:25
 d20a3fd0-0d51-459e-9115-79c25dbc6978,archosaur.media,available,5.98,58.98,low,low,9,namecheap,,,06/08/2026 15:57
 1c3f2875-c959-433f-8dcf-f27cde69c475,cinema.media,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",06/09/2017 08:22,06/09/2027 08:22,19/09/2026 09:58
 bfb8bb3a-b7e7-45ad-aeb7-c62ee9069510,amygdaloid.media,available,5.98,58.98,low,low,10,namecheap,,,
 f5aee476-afaa-436f-b772-e7759f98d411,cxl.media,premium,21.45,42.9,low,low,3,namecheap,,,
 f4c8061d-f233-4881-a347-2ca50ec1e17a,tend.media,available,7.99,,high,low,4,name.com,,,
 7629b243-517a-4bac-9c94-f008ca1b292b,aeronautic.media,available,5.98,58.98,low,low,10,namecheap,,,
+be107111-5581-4936-8b15-c173279eaab0,veg.media,premium,69.3,138.6,high,low,3,namecheap,,,
+226db2b1-7321-4253-b468-a850af83e8f6,redmeat.media,available,7.99,,low,low,8,name.com,,,
+ec1e88bc-a057-41c2-8dc1-48fc849e9546,whitesalt.media,available,7.99,,low,low,10,name.com,,,
+e6d33335-9dbf-4335-a47d-11af58ebba82,arid.media,available,5.98,58.98,low,low,4,namecheap,,,06/08/2026 18:58
+398df7d1-5b14-4888-98ff-1630e429fb73,giveitarest.media,available,7.99,,medium,low,14,name.com,,,
+dc84fff5-b036-4467-8746-bbf41fd3060b,allwheeldrive.media,available,7.99,,high,low,15,name.com,,,
+bab32821-6912-4545-b8c3-042a964f8bf2,ascitic.media,available,5.98,58.98,low,low,7,namecheap,,,07/08/2026 01:06
+ac594c15-7167-43f0-b063-2baef0fd6aaf,bacchic.media,available,5.98,58.98,low,low,7,namecheap,,,08/08/2026 04:19
+6cc2e1ad-2408-490b-bd74-0b1b050ef5be,bordered.media,available,11.99,44.99,low,low,8,namesilo,,,22/09/2026 23:55
