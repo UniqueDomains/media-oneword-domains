@@ -1,10 +1,10 @@
-# Available .MEDIA One-Word Domains (19,719)
+# Available .MEDIA One-Word Domains (21,293)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C719%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C293%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .media one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,719 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,293 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,719 domains · **Median ask:** $12.95 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 21,293 domains · **Median ask:** $13.23 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/media`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| akee.media | available | $11.99    | $44.99        | medium         | low    | 4      | namesilo                                            |
-| all.media  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
-| che.media  | premium   | $99.50    | —             | high           | low    | 3      | unstoppable                                         |
-| alep.media | available | $11.99    | $44.99        | medium         | low    | 4      | namesilo                                            |
-| bbc.media  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
-| hui.media  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| apia.media | available | $11.99    | $44.99        | medium         | low    | 4      | namesilo                                            |
-| bop.media  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                     |
-| ine.media  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                            |
-| ards.media | available | $5.98     | $58.98        | medium         | low    | 4      | namecheap                                           |
-| egg.media  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 16                                   |
-| nnw.media  | premium   | $21.45    | $42.90        | medium         | low    | 3      | namecheap                                           |
-| atop.media | available | $35.20    | $35.20        | medium         | low    | 4      | cloudflare                                          |
-| burn.media | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| oil.media  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
-| awed.media | available | $5.98     | $58.98        | medium         | low    | 4      | namecheap                                           |
-| coin.media | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                        |
-| pci.media  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                            |
-| balk.media | available | $5.98     | $58.98        | medium         | low    | 4      | namecheap                                           |
-| drum.media | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| dynamic.media     | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| advertising.media | premium   | $414.20   | $828.20       | high           | low    | 11     | spaceship                                                 |
+| ribbon.media      | resell    | —         | —             | high           | low    | 6      | UM DOMAINS PTE. LTD                                       |
+| wonderful.media   | resell    | —         | —             | high           | low    | 9      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| panther.media     | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| catch.media       | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| all.media         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| jewish.media      | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
+| unbeatable.media  | available | $11.99    | $44.99        | high           | low    | 10     | namesilo                                                  |
+| kidney.media      | available | $11.99    | $44.99        | high           | low    | 6      | namesilo                                                  |
+| colors.media      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                               |
+| attach.media      | available | $5.98     | $58.98        | high           | low    | 6      | namecheap                                                 |
+| genius.media      | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
+| oil.media         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| child.media       | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| used.media        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| backpack.media    | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                                               |
+| chimney.media     | available | $11.99    | $44.99        | high           | low    | 7      | namesilo                                                  |
+| organized.media   | available | $11.99    | $44.99        | high           | low    | 9      | namesilo                                                  |
+| appearance.media  | available | $5.98     | $58.98        | high           | low    | 10     | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,719 live domains                        |
+| 1,000-row public sample | 21,293 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEDIA One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
